@@ -1,0 +1,34 @@
+Fuente,Archivo,Hoja,Filas,Columnas
+polyphenols_raw,alldata_polyphenols.xlsx,alldata_polyphenols,64,20
+polyphenols_raw,alldata_polyphenols.xlsx,data_polyphenols,32,21
+anthocyanins_raw,Anthocyanins.xlsx,Hoja1,484,3
+anthocyanins_raw,Anthocyanins.xlsx,Cyanidin gluc,96,18
+anthocyanins_raw,Anthocyanins.xlsx,Pelargonidin gluc,96,17
+anthocyanins_raw,Anthocyanins.xlsx,Pelargonidin rutin,96,17
+anthocyanins_raw,Anthocyanins.xlsx,RData,0,0
+antiox_consolidated,Antiox_data.xlsx,Antiox_data,32,27
+leaf,Dataset_final_leaf.xlsx,Treatments,4,2
+leaf,Dataset_final_leaf.xlsx,Nitrates,65,14
+leaf,Dataset_final_leaf.xlsx,Isotopes,64,9
+leaf,Dataset_final_leaf.xlsx,RGB,96,8
+leaf,Dataset_final_leaf.xlsx,Nutrients,65,28
+soil,Dataset_final_suelo.xlsx,CyN,32,8
+soil,Dataset_final_suelo.xlsx,Microb,32,11
+soil,Dataset_final_suelo.xlsx,Final,32,15
+harvests,harvests.xlsx,harvests,608,13
+harvests,harvests.xlsx,yield_weeks,608,6
+harvests,harvests.xlsx,productions_kg,32,18
+harvests,harvests.xlsx,Hoja1,32,5
+sampling,Sampling May 2023.xlsx,Hoja2,161,13
+sampling,Sampling May 2023.xlsx,Hoja3,33,15
+sampling,Sampling May 2023.xlsx,Weight extracts Vit C,65,5
+sampling,Sampling May 2023.xlsx,Weight extracts antho 2,97,5
+sampling,Sampling May 2023.xlsx,FWDW,38,14
+sampling,Sampling May 2023.xlsx,data_quality,33,12
+sampling,Sampling May 2023.xlsx,Hoja1,8,10
+sampling,Sampling May 2023.xlsx,all_data,32,19
+sampling,Sampling May 2023.xlsx,data_FAMD,32,17
+polyphenols_table,Table polyphenols.xlsx,Hoja1,167,24
+polyphenols_table,Table polyphenols.xlsx,Hoja2,17,10
+vitc_raw,VitC_MarinaPerez.xlsx,Hoja1,23,5
+vitc_raw,VitC_MarinaPerez.xlsx,Hoja3,64,18
