@@ -1,0 +1,26 @@
+variable,justificacion
+FE_delta_leaf_iso_%N,Diferencia May - March entre leaf_iso_%N_May y leaf_iso_%N_March; comparar misma unidad experimental.
+FE_delta_leaf_iso_d13C,Diferencia May - March entre leaf_iso_d13C_May y leaf_iso_d13C_March; comparar misma unidad experimental.
+FE_delta_leaf_no3_mg NO3-/ 100 mg DW,Diferencia May - March entre leaf_no3_mg NO3-/ 100 mg DW_May y leaf_no3_mg NO3-/ 100 mg DW_March; comparar misma unidad experimental.
+FE_delta_leaf_no3_mg NO3-/ g DW,Diferencia May - March entre leaf_no3_mg NO3-/ g DW_May y leaf_no3_mg NO3-/ g DW_March; comparar misma unidad experimental.
+FE_delta_leaf_nut_B,Diferencia May - March entre leaf_nut_B_May y leaf_nut_B_March; comparar misma unidad experimental.
+FE_delta_leaf_nut_Ca,Diferencia May - March entre leaf_nut_Ca_May y leaf_nut_Ca_March; comparar misma unidad experimental.
+FE_delta_leaf_nut_Cd,Diferencia May - March entre leaf_nut_Cd_May y leaf_nut_Cd_March; comparar misma unidad experimental.
+FE_delta_leaf_nut_Co,Diferencia May - March entre leaf_nut_Co_May y leaf_nut_Co_March; comparar misma unidad experimental.
+FE_delta_leaf_nut_Cr,Diferencia May - March entre leaf_nut_Cr_May y leaf_nut_Cr_March; comparar misma unidad experimental.
+FE_delta_leaf_nut_Cu,Diferencia May - March entre leaf_nut_Cu_May y leaf_nut_Cu_March; comparar misma unidad experimental.
+FE_delta_leaf_nut_Fe,Diferencia May - March entre leaf_nut_Fe_May y leaf_nut_Fe_March; comparar misma unidad experimental.
+FE_delta_leaf_nut_K,Diferencia May - March entre leaf_nut_K_May y leaf_nut_K_March; comparar misma unidad experimental.
+FE_delta_leaf_nut_Mg,Diferencia May - March entre leaf_nut_Mg_May y leaf_nut_Mg_March; comparar misma unidad experimental.
+FE_delta_leaf_nut_Mn,Diferencia May - March entre leaf_nut_Mn_May y leaf_nut_Mn_March; comparar misma unidad experimental.
+FE_delta_leaf_nut_Mo,Diferencia May - March entre leaf_nut_Mo_May y leaf_nut_Mo_March; comparar misma unidad experimental.
+FE_delta_leaf_nut_Na,Diferencia May - March entre leaf_nut_Na_May y leaf_nut_Na_March; comparar misma unidad experimental.
+FE_delta_leaf_nut_Ni,Diferencia May - March entre leaf_nut_Ni_May y leaf_nut_Ni_March; comparar misma unidad experimental.
+FE_delta_leaf_nut_P,Diferencia May - March entre leaf_nut_P_May y leaf_nut_P_March; comparar misma unidad experimental.
+FE_delta_leaf_nut_Pb,Diferencia May - March entre leaf_nut_Pb_May y leaf_nut_Pb_March; comparar misma unidad experimental.
+FE_delta_leaf_nut_S,Diferencia May - March entre leaf_nut_S_May y leaf_nut_S_March; comparar misma unidad experimental.
+FE_delta_leaf_nut_Si,Diferencia May - March entre leaf_nut_Si_May y leaf_nut_Si_March; comparar misma unidad experimental.
+FE_delta_leaf_nut_Zn,Diferencia May - March entre leaf_nut_Zn_May y leaf_nut_Zn_March; comparar misma unidad experimental.
+FE_delta_leaf_rgb_CSI,Diferencia May - March entre leaf_rgb_CSI_May y leaf_rgb_CSI_March; comparar misma unidad experimental.
+FE_delta_leaf_rgb_GA,Diferencia May - March entre leaf_rgb_GA_May y leaf_rgb_GA_March; comparar misma unidad experimental.
+FE_delta_leaf_rgb_GGA,Diferencia May - March entre leaf_rgb_GGA_May y leaf_rgb_GGA_March; comparar misma unidad experimental.

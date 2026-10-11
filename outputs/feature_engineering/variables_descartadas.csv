@@ -1,0 +1,5 @@
+variable,motivo
+leaf_no3_mg NO3-/ g DW_March,Spearman 0.950 con leaf_no3_mg NO3-/ 100 mg DW_March
+leaf_no3_mg NO3-/ g DW_May,Spearman 0.974 con leaf_no3_mg NO3-/ 100 mg DW_May
+FE_delta_leaf_no3_mg NO3-/ g DW,Spearman 0.973 con FE_delta_leaf_no3_mg NO3-/ 100 mg DW
+FE_delta_leaf_nut_Ca,Spearman 0.980 con leaf_nut_Ca_May

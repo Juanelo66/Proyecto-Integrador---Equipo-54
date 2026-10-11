@@ -1,0 +1,11 @@
+indicador,resultado
+Filas analíticas,32
+Grupos provisionales,16
+Características derivadas,25
+Yeo-Johnson aplicadas,25
+Numéricas candidatas,89
+Numéricas depuradas,85
+Codificadas OHE,6
+PCA componentes,12
+PCA varianza acumulada (%),85.93
+Train/Test,24/8
