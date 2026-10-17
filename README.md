@@ -118,7 +118,7 @@ Se realiza la integración y exploración de los datos originales, incluyendo:
 - Análisis de correlaciones entre variables de suelo, hojas y fruto.
 - Exploración de patrones multivariantes.
 
-Los resultados correspondientes se almacenan en `outputs/`.
+Los resultados correspondientes se almacenan en `outputs/`. Las figuras utilizadas en las libretas se guardan en `outputs/figures/`.
 
 ### 2. Ingeniería de Características (Feature Engineering)
 
