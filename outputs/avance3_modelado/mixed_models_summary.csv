@@ -1,0 +1,11 @@
+Outcome,Agrupación,Converged,AIC,Random_intercept_var,Advertencias
+yield_g/planta,Replicate,True,349.86711417010616,344.3669181964327,
+yield_g/planta,Parcel_ID,True,351.75239360609004,318.29794351126696,
+Total polyphenols,Replicate,True,531.612378506725,66669.78987080429,
+Total polyphenols,Parcel_ID,True,531.8847468480622,128161.12544107328,
+Tot anth,Replicate,True,332.4318525689901,1.1680833325487302e-06,The MLE may be on the boundary of the parameter space.
+Tot anth,Parcel_ID,True,332.4318525649082,5.267234783708198e-07,The MLE may be on the boundary of the parameter space.
+Vit C,Replicate,True,89.9059353312124,5.204137219307327e-11,The MLE may be on the boundary of the parameter space.
+Vit C,Parcel_ID,True,89.66990159050961,0.06296446883860368,
+fruit_BRIX,Replicate,True,66.23918386726126,0.12816964264650849,
+fruit_BRIX,Parcel_ID,True,73.83714877349705,0.08406165317976232,

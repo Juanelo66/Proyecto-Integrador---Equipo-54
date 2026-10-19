@@ -1,0 +1,8 @@
+Objetivo,Target,Modelo,Configuracion,Train_MAE,CV_MAE,CV_MAE_sd,CV_R2,Mejora_vs_Dummy_%,Cumple_minimo,Estado
+Acidez,fruit_Acidity,Elastic Net conservador,Diseno,0.046597530864197545,0.04776296296296298,0.01755728282381599,-0.031704017410741026,0.0,False,No supera referencia minima
+Antocianinas totales,Tot anth,PCA 85% + Ridge,Top 20,39.22931829240181,61.76240619699894,6.698279567541207,0.7978539791052889,61.479436348395524,True,Candidato preliminar
+BRIX,fruit_BRIX,PLS (1 componente),Top 20,0.32049231920468135,0.524730786403196,0.0954639093025555,0.23584191541256794,12.138100881325297,True,Candidato preliminar
+Polifenoles totales,Total polyphenols,Random Forest conservador,Diseno,549.0777927452505,598.5144219788002,249.64743788654133,-0.16784792370228097,-3.169001938994747,False,No supera referencia minima
+Producción comercial Ton/ha,yield_Com Ton/ha,Elastic Net conservador,Completo,0.3041181717657658,0.6389393854446633,0.08468881519085862,0.9082654026703748,73.08427714449729,True,Candidato preliminar
+Rendimiento g/planta,yield_g/planta,PCA 85% + Ridge,Top 20,34.65541669766931,43.16385635188239,11.65772412982189,0.8264319559610109,68.59583494319396,True,Candidato preliminar
+Vitamina C,Vit C,Random Forest conservador,Diseno,0.6240902995669453,0.6842968435696251,0.09698004634423922,-0.1581430223178666,0.41964400223738124,False,No supera referencia minima
