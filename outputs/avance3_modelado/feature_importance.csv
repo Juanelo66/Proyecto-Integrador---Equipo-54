@@ -1,0 +1,53 @@
+Feature,Coeficiente_Ridge,Importancia_abs,Objetivo,Configuracion
+num__FE_delta_leaf_nut_Ca,23.104485919453413,23.104485919453413,Rendimiento g/planta,Top 20
+num__leaf_nut_Mn_March,22.39914640517008,22.39914640517008,Rendimiento g/planta,Top 20
+num__FE_delta_leaf_nut_P,-21.921138386911778,21.921138386911778,Rendimiento g/planta,Top 20
+num__leaf_nut_P_March,15.122195631708562,15.122195631708562,Rendimiento g/planta,Top 20
+num__soil_Microbial_biomass_C_sinincubar,13.836683092966275,13.836683092966275,Rendimiento g/planta,Top 20
+num__FE_delta_leaf_iso_%N,-12.01963616875623,12.01963616875623,Rendimiento g/planta,Top 20
+num__soil_C org,11.93929229723332,11.93929229723332,Rendimiento g/planta,Top 20
+cat__Cultivar_Dream,-11.777224237699519,11.777224237699519,Rendimiento g/planta,Top 20
+num__leaf_nut_S_March,11.772818747714707,11.772818747714707,Rendimiento g/planta,Top 20
+num__FE_delta_leaf_rgb_CSI_May_minus_March,11.691214591108297,11.691214591108297,Rendimiento g/planta,Top 20
+num__FE_delta_leaf_nut_Co,11.223575524115677,11.223575524115677,Rendimiento g/planta,Top 20
+num__FE_delta_leaf_rgb_GGA_May_minus_March,-8.831807654241729,8.831807654241729,Rendimiento g/planta,Top 20
+num__FE_delta_leaf_rgb_GGA_March_minus_December,-8.034753903649275,8.034753903649275,Rendimiento g/planta,Top 20
+num__leaf_nut_Mg_March,7.856941178709603,7.856941178709603,Rendimiento g/planta,Top 20
+num__leaf_no3_mg NO3-/ 100 mg DW_March,-7.429287817863761,7.429287817863761,Rendimiento g/planta,Top 20
+num__FE_delta_leaf_nut_Fe,7.4167261932213195,7.4167261932213195,Rendimiento g/planta,Top 20
+cat__Treatment_name_N-rich,-6.867603898234996,6.867603898234996,Rendimiento g/planta,Top 20
+num__soil_N_microbiano_incubado,6.607684460915489,6.607684460915489,Rendimiento g/planta,Top 20
+cat__Treatment_name_RCW-HD,-4.991690206212204,4.991690206212204,Rendimiento g/planta,Top 20
+num__FE_delta_leaf_rgb_CSI_March_minus_December,-4.691377049018092,4.691377049018092,Rendimiento g/planta,Top 20
+num__soil_N _mineral _sinincubar,-2.97723284011942,2.97723284011942,Rendimiento g/planta,Top 20
+cat__Treatment_name_RCW-LD,1.495922508621238,1.495922508621238,Rendimiento g/planta,Top 20
+num__soil_Densidad ap,1.1944460223866384,1.1944460223866384,Rendimiento g/planta,Top 20
+num__soil_Microbial_biomass_C_incubado,-0.9616008864910606,0.9616008864910606,Rendimiento g/planta,Top 20
+cat__Treatment_name_RCW-LD,71.24954458184975,71.24954458184975,Polifenoles totales,Diseno
+cat__Treatment_name_RCW-HD,-39.8526206551234,39.8526206551234,Polifenoles totales,Diseno
+cat__Treatment_name_N-rich,23.825011203288746,23.825011203288746,Polifenoles totales,Diseno
+cat__Cultivar_Dream,14.136496399544942,14.136496399544942,Polifenoles totales,Diseno
+num__leaf_no3_mg NO3-/ 100 mg DW_March,25.395486287590632,25.395486287590632,Antocianinas totales,Top 20
+num__FE_delta_leaf_nut_S,20.343939125505965,20.343939125505965,Antocianinas totales,Top 20
+num__FE_delta_leaf_iso_%N,18.173665604469367,18.173665604469367,Antocianinas totales,Top 20
+num__leaf_no3_mg NO3-/ g DW_March,17.736298735197447,17.736298735197447,Antocianinas totales,Top 20
+num__leaf_nut_Mn_March,-17.090429549562163,17.090429549562163,Antocianinas totales,Top 20
+num__leaf_nut_P_March,-15.775991447785792,15.775991447785792,Antocianinas totales,Top 20
+num__leaf_rgb_GA_December,-15.465626156807504,15.465626156807504,Antocianinas totales,Top 20
+num__leaf_rgb_GGA_December,-14.572431373332424,14.572431373332424,Antocianinas totales,Top 20
+num__FE_delta_leaf_nut_Ca,-14.538092242502378,14.538092242502378,Antocianinas totales,Top 20
+cat__Cultivar_Dream,12.030338321152009,12.030338321152009,Antocianinas totales,Top 20
+num__FE_delta_leaf_nut_P,11.395124970270958,11.395124970270958,Antocianinas totales,Top 20
+num__FE_delta_leaf_nut_Fe,-10.630860097862751,10.630860097862751,Antocianinas totales,Top 20
+num__soil_N_microbiano_sinincubar,-10.51581364752882,10.51581364752882,Antocianinas totales,Top 20
+num__soil_Densidad ap,-8.692645771445324,8.692645771445324,Antocianinas totales,Top 20
+num__FE_delta_leaf_rgb_CSI_March_minus_December,7.914934089553382,7.914934089553382,Antocianinas totales,Top 20
+num__FE_delta_leaf_nut_Co,-7.206579907096935,7.206579907096935,Antocianinas totales,Top 20
+num__FE_delta_leaf_rgb_GGA_March_minus_December,-7.126733053979905,7.126733053979905,Antocianinas totales,Top 20
+num__soil_N_microbiano_incubado,5.7537277535191045,5.7537277535191045,Antocianinas totales,Top 20
+num__soil_Microbial_biomass_C_incubado,4.756677162203664,4.756677162203664,Antocianinas totales,Top 20
+num__soil_Microbial_biomass_C_sinincubar,-3.4763417775484315,3.4763417775484315,Antocianinas totales,Top 20
+cat__Treatment_name_N-rich,3.3569358884434735,3.3569358884434735,Antocianinas totales,Top 20
+cat__Treatment_name_RCW-HD,-2.5481873787973446,2.5481873787973446,Antocianinas totales,Top 20
+cat__Treatment_name_RCW-LD,-0.33601127249777896,0.33601127249777896,Antocianinas totales,Top 20
+num__soil_N_mineral_incubado,-0.11325349718119848,0.11325349718119848,Antocianinas totales,Top 20

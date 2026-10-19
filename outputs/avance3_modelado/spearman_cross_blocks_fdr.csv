@@ -1,0 +1,946 @@
+Relación,Cultivar,X,Y,n,rho,p,q_FDR
+Suelo → fruto,Donna,soil_Densidad ap,yield_Com Ton/ha,16,0.11470588235294117,0.6722910465997229,0.9606436403205733
+Suelo → fruto,Donna,soil_Densidad ap,yield_No com Ton/ha,16,0.37058823529411766,0.15765046473782054,0.8747785529819908
+Suelo → fruto,Donna,soil_Densidad ap,yield_g/planta,16,0.07058823529411765,0.7950393023376279,0.9606436403205733
+Suelo → fruto,Donna,soil_Densidad ap,fruit_Weight,16,0.2588235294117647,0.3330723066336081,0.886423315658193
+Suelo → fruto,Donna,soil_Densidad ap,fruit_Hydrat,16,-0.2281089653607883,0.3954878909103696,0.918096889613358
+Suelo → fruto,Donna,soil_Densidad ap,fruit_Firm,16,0.017673067767375733,0.9482040183972815,0.9913748045563624
+Suelo → fruto,Donna,soil_Densidad ap,fruit_Hue,16,0.4323529411764706,0.09442103753478695,0.8747785529819908
+Suelo → fruto,Donna,soil_Densidad ap,fruit_Chroma,16,0.0029411764705882353,0.9913748045563624,0.9913748045563624
+Suelo → fruto,Donna,soil_Densidad ap,fruit_BRIX,16,-0.0073637782364065546,0.9784071991916394,0.9913748045563624
+Suelo → fruto,Donna,soil_Densidad ap,fruit_Acidity,16,0.4467533832375236,0.0827722207407326,0.8747785529819908
+Suelo → fruto,Donna,soil_Densidad ap,Total polyphenols,16,-0.28823529411764703,0.27898445973708325,0.8747785529819908
+Suelo → fruto,Donna,soil_Densidad ap,Tot anth,16,0.2088235294117647,0.43765851094980035,0.9321592569606658
+Suelo → fruto,Donna,soil_Densidad ap,Vit C,16,-0.2516556972689987,0.34710363587633486,0.886423315658193
+Suelo → fruto,Donna,soil_C org,yield_Com Ton/ha,16,0.09705882352941177,0.7206513082372035,0.9606436403205733
+Suelo → fruto,Donna,soil_C org,yield_No com Ton/ha,16,-0.3205882352941176,0.22604542220798235,0.8747785529819908
+Suelo → fruto,Donna,soil_C org,yield_g/planta,16,-0.023529411764705882,0.931073583667659,0.9913748045563624
+Suelo → fruto,Donna,soil_C org,fruit_Weight,16,-0.014705882352941175,0.956891924031642,0.9913748045563624
+Suelo → fruto,Donna,soil_C org,fruit_Hydrat,16,0.02207506116394726,0.9353253445612628,0.9913748045563624
+Suelo → fruto,Donna,soil_C org,fruit_Firm,16,-0.34315206581654545,0.19318794024338232,0.8747785529819908
+Suelo → fruto,Donna,soil_C org,fruit_Hue,16,-0.18823529411764706,0.4850866091454682,0.9321592569606658
+Suelo → fruto,Donna,soil_C org,fruit_Chroma,16,-0.02647058823529412,0.9224805705017287,0.9913748045563624
+Suelo → fruto,Donna,soil_C org,fruit_BRIX,16,-0.16936689943735078,0.5306137308853021,0.9321592569606658
+Suelo → fruto,Donna,soil_C org,fruit_Acidity,16,-0.17603858478564674,0.514298952285166,0.9321592569606658
+Suelo → fruto,Donna,soil_C org,Total polyphenols,16,-0.07647058823529412,0.7783409809607029,0.9606436403205733
+Suelo → fruto,Donna,soil_C org,Tot anth,16,-0.02058823529411765,0.9396737397890448,0.9913748045563624
+Suelo → fruto,Donna,soil_C org,Vit C,16,0.08094189093447328,0.7657083655251865,0.9606436403205733
+Suelo → fruto,Donna,soil_C:N,yield_Com Ton/ha,16,0.2058823529411765,0.44428464105214394,0.9321592569606658
+Suelo → fruto,Donna,soil_C:N,yield_No com Ton/ha,16,-0.32647058823529407,0.21715949057922948,0.8747785529819908
+Suelo → fruto,Donna,soil_C:N,yield_g/planta,16,0.17352941176470588,0.5204075144487408,0.9321592569606658
+Suelo → fruto,Donna,soil_C:N,fruit_Weight,16,0.21176470588235297,0.431083247239221,0.9321592569606658
+Suelo → fruto,Donna,soil_C:N,fruit_Hydrat,16,-0.4606329429543662,0.07255880055621557,0.8747785529819908
+Suelo → fruto,Donna,soil_C:N,fruit_Firm,16,0.2930783738089809,0.27062112254283294,0.8747785529819908
+Suelo → fruto,Donna,soil_C:N,fruit_Hue,16,-0.15,0.5792486306642535,0.9412790248294118
+Suelo → fruto,Donna,soil_C:N,fruit_Chroma,16,0.011764705882352941,0.9655081698956276,0.9913748045563624
+Suelo → fruto,Donna,soil_C:N,fruit_BRIX,16,0.13696627519716192,0.6129842174611964,0.9600957622886209
+Suelo → fruto,Donna,soil_C:N,fruit_Acidity,16,-0.07544510776527717,0.7812457044452187,0.9606436403205733
+Suelo → fruto,Donna,soil_C:N,Total polyphenols,16,-0.3,0.25893645256249886,0.8747785529819908
+Suelo → fruto,Donna,soil_C:N,Tot anth,16,0.07058823529411765,0.7950393023376279,0.9606436403205733
+Suelo → fruto,Donna,soil_C:N,Vit C,16,-0.32523923448215625,0.21900083293368017,0.8747785529819908
+Suelo → fruto,Donna,soil_Microbial_biomass_C_sinincubar,yield_Com Ton/ha,16,0.05294117647058824,0.8456104411493659,0.9815121191912283
+Suelo → fruto,Donna,soil_Microbial_biomass_C_sinincubar,yield_No com Ton/ha,16,0.4176470588235294,0.1074740793993006,0.8747785529819908
+Suelo → fruto,Donna,soil_Microbial_biomass_C_sinincubar,yield_g/planta,16,0.14705882352941177,0.5867933937012054,0.9417671750760087
+Suelo → fruto,Donna,soil_Microbial_biomass_C_sinincubar,fruit_Weight,16,-0.3382352941176471,0.20006555877868962,0.8747785529819908
+Suelo → fruto,Donna,soil_Microbial_biomass_C_sinincubar,fruit_Hydrat,16,0.32523923448215625,0.21900083293368017,0.8747785529819908
+Suelo → fruto,Donna,soil_Microbial_biomass_C_sinincubar,fruit_Firm,16,-0.15316658731725635,0.5711712129173453,0.9408455759735445
+Suelo → fruto,Donna,soil_Microbial_biomass_C_sinincubar,fruit_Hue,16,0.44117647058823534,0.08715363626051081,0.8747785529819908
+Suelo → fruto,Donna,soil_Microbial_biomass_C_sinincubar,fruit_Chroma,16,0.5647058823529412,0.022663204844184645,0.8747785529819908
+Suelo → fruto,Donna,soil_Microbial_biomass_C_sinincubar,fruit_BRIX,16,0.03681889118203278,0.8923164427641046,0.9913748045563624
+Suelo → fruto,Donna,soil_Microbial_biomass_C_sinincubar,fruit_Acidity,16,0.3062183785767132,0.24870809471590208,0.8747785529819908
+Suelo → fruto,Donna,soil_Microbial_biomass_C_sinincubar,Total polyphenols,16,0.5,0.04858028888702393,0.8747785529819908
+Suelo → fruto,Donna,soil_Microbial_biomass_C_sinincubar,Tot anth,16,-0.06176470588235294,0.8202418775044894,0.9606436403205733
+Suelo → fruto,Donna,soil_Microbial_biomass_C_sinincubar,Vit C,16,0.06328184200331548,0.8158960436310546,0.9606436403205733
+Suelo → fruto,Donna,soil_Microbial_biomass_C_incubado,yield_Com Ton/ha,16,0.09999999999999999,0.7125163701282782,0.9606436403205733
+Suelo → fruto,Donna,soil_Microbial_biomass_C_incubado,yield_No com Ton/ha,16,-0.07058823529411765,0.7950393023376279,0.9606436403205733
+Suelo → fruto,Donna,soil_Microbial_biomass_C_incubado,yield_g/planta,16,0.18235294117647058,0.49907485724580014,0.9321592569606658
+Suelo → fruto,Donna,soil_Microbial_biomass_C_incubado,fruit_Weight,16,-0.2088235294117647,0.43765851094980035,0.9321592569606658
+Suelo → fruto,Donna,soil_Microbial_biomass_C_incubado,fruit_Hydrat,16,0.4650479551871556,0.0695109184740878,0.8747785529819908
+Suelo → fruto,Donna,soil_Microbial_biomass_C_incubado,fruit_Firm,16,-0.0397644024765954,0.8837541376665651,0.9913748045563624
+Suelo → fruto,Donna,soil_Microbial_biomass_C_incubado,fruit_Hue,16,-0.07058823529411765,0.7950393023376279,0.9606436403205733
+Suelo → fruto,Donna,soil_Microbial_biomass_C_incubado,fruit_Chroma,16,0.1411764705882353,0.602002683881979,0.9543944988372838
+Suelo → fruto,Donna,soil_Microbial_biomass_C_incubado,fruit_BRIX,16,0.25625948262694814,0.33805366661517655,0.886423315658193
+Suelo → fruto,Donna,soil_Microbial_biomass_C_incubado,fruit_Acidity,16,-0.2455664291967845,0.35928145140470236,0.886423315658193
+Suelo → fruto,Donna,soil_Microbial_biomass_C_incubado,Total polyphenols,16,0.2441176470588235,0.3622134961419501,0.886423315658193
+Suelo → fruto,Donna,soil_Microbial_biomass_C_incubado,Tot anth,16,-0.2823529411764706,0.2893498290632739,0.8747785529819908
+Suelo → fruto,Donna,soil_Microbial_biomass_C_incubado,Vit C,16,0.4473879062559977,0.08228395167946795,0.8747785529819908
+Suelo → fruto,Donna,soil_N_microbiano_sinincubar,yield_Com Ton/ha,16,-0.0029498653417206555,0.9913493247499718,0.9913748045563624
+Suelo → fruto,Donna,soil_N_microbiano_sinincubar,yield_No com Ton/ha,16,0.2890868034886242,0.2775028407208985,0.8747785529819908
+Suelo → fruto,Donna,soil_N_microbiano_sinincubar,yield_g/planta,16,0.06194717217613376,0.8197189411640142,0.9606436403205733
+Suelo → fruto,Donna,soil_N_microbiano_sinincubar,fruit_Weight,16,-0.005899730683441311,0.9826995527642575,0.9913748045563624
+Suelo → fruto,Donna,soil_N_microbiano_sinincubar,fruit_Hydrat,16,0.4546136603608222,0.07686897125247413,0.8747785529819908
+Suelo → fruto,Donna,soil_N_microbiano_sinincubar,fruit_Firm,16,-0.3072381490570274,0.2470550275517252,0.8747785529819908
+Suelo → fruto,Donna,soil_N_microbiano_sinincubar,fruit_Hue,16,0.17994178584495996,0.5048629931795912,0.9321592569606658
+Suelo → fruto,Donna,soil_N_microbiano_sinincubar,fruit_Chroma,16,0.24188895802109375,0.3667497988728229,0.886423315658193
+Suelo → fruto,Donna,soil_N_microbiano_sinincubar,fruit_BRIX,16,0.2673562739390479,0.3168006268271879,0.886423315658193
+Suelo → fruto,Donna,soil_N_microbiano_sinincubar,fruit_Acidity,16,0.08605379132501279,0.7513335691660644,0.9606436403205733
+Suelo → fruto,Donna,soil_N_microbiano_sinincubar,Total polyphenols,16,0.3628334370316406,0.16721153262050986,0.8747785529819908
+Suelo → fruto,Donna,soil_N_microbiano_sinincubar,Tot anth,16,0.08259622956817836,0.7610482348097771,0.9606436403205733
+Suelo → fruto,Donna,soil_N_microbiano_sinincubar,Vit C,16,0.21254664640246232,0.42934375746373676,0.9321592569606658
+Suelo → fruto,Donna,soil_N_microbiano_incubado,yield_Com Ton/ha,16,0.17699192050323934,0.5119867819213352,0.9321592569606658
+Suelo → fruto,Donna,soil_N_microbiano_incubado,yield_No com Ton/ha,16,-0.11799461366882621,0.663403835139343,0.9606436403205733
+Suelo → fruto,Donna,soil_N_microbiano_incubado,yield_g/planta,16,0.2684377460965796,0.31477197458201067,0.886423315658193
+Suelo → fruto,Donna,soil_N_microbiano_incubado,fruit_Weight,16,-0.1917412472118426,0.47684022284585936,0.9321592569606658
+Suelo → fruto,Donna,soil_N_microbiano_incubado,fruit_Hydrat,16,0.324724043114873,0.21977418391670617,0.8747785529819908
+Suelo → fruto,Donna,soil_N_microbiano_incubado,fruit_Firm,16,0.09748902806617216,0.7194596366049166,0.9606436403205733
+Suelo → fruto,Donna,soil_N_microbiano_incubado,fruit_Hue,16,-0.07669649888473705,0.7777014462057079,0.9606436403205733
+Suelo → fruto,Donna,soil_N_microbiano_incubado,fruit_Chroma,16,0.3067859955389482,0.24778713175399894,0.8747785529819908
+Suelo → fruto,Donna,soil_N_microbiano_incubado,fruit_BRIX,16,0.17429856533042898,0.5185314937865841,0.9321592569606658
+Suelo → fruto,Donna,soil_N_microbiano_incubado,fruit_Acidity,16,-0.22997133888581006,0.3915350548805264,0.918096889613358
+Suelo → fruto,Donna,soil_N_microbiano_incubado,Total polyphenols,16,0.09439569093506098,0.7280415422043793,0.9606436403205733
+Suelo → fruto,Donna,soil_N_microbiano_incubado,Tot anth,16,-0.3805326290819645,0.1459374072338784,0.8747785529819908
+Suelo → fruto,Donna,soil_N_microbiano_incubado,Vit C,16,0.30701182258133447,0.2474213156754551,0.8747785529819908
+Suelo → fruto,Donna,soil_Respiracion_microb (ug C-CO2/gsuelo·dia),yield_Com Ton/ha,16,0.2619573924788408,0.3270414301127119,0.886423315658193
+Suelo → fruto,Donna,soil_Respiracion_microb (ug C-CO2/gsuelo·dia),yield_No com Ton/ha,16,0.18248717228863065,0.49875354989484955,0.9321592569606658
+Suelo → fruto,Donna,soil_Respiracion_microb (ug C-CO2/gsuelo·dia),yield_g/planta,16,0.08241356167873644,0.7615624197209059,0.9606436403205733
+Suelo → fruto,Donna,soil_Respiracion_microb (ug C-CO2/gsuelo·dia),fruit_Weight,16,0.43119952806910306,0.09540189968383142,0.8747785529819908
+Suelo → fruto,Donna,soil_Respiracion_microb (ug C-CO2/gsuelo·dia),fruit_Hydrat,16,-0.4035346097201767,0.12114566438205004,0.8747785529819908
+Suelo → fruto,Donna,soil_Respiracion_microb (ug C-CO2/gsuelo·dia),fruit_Firm,16,-0.03831983354408369,0.8879519037315494,0.9913748045563624
+Suelo → fruto,Donna,soil_Respiracion_microb (ug C-CO2/gsuelo·dia),fruit_Hue,16,-0.04415012232789452,0.8710278748904619,0.9913748045563624
+Suelo → fruto,Donna,soil_Respiracion_microb (ug C-CO2/gsuelo·dia),fruit_Chroma,16,-0.4032377839281032,0.12144556683501988,0.8747785529819908
+Suelo → fruto,Donna,soil_Respiracion_microb (ug C-CO2/gsuelo·dia),fruit_BRIX,16,-0.16212237268650792,0.5485888422052614,0.9408455759735445
+Suelo → fruto,Donna,soil_Respiracion_microb (ug C-CO2/gsuelo·dia),fruit_Acidity,16,-0.08142226245702196,0.7643544163639103,0.9606436403205733
+Suelo → fruto,Donna,soil_Respiracion_microb (ug C-CO2/gsuelo·dia),Total polyphenols,16,-0.7314203598987858,0.0012823722521145384,0.16670839277488997
+Suelo → fruto,Donna,soil_Respiracion_microb (ug C-CO2/gsuelo·dia),Tot anth,16,0.08241356167873644,0.7615624197209059,0.9606436403205733
+Suelo → fruto,Donna,soil_Respiracion_microb (ug C-CO2/gsuelo·dia),Vit C,16,-0.41973490427098675,0.10554777806082946,0.8747785529819908
+Suelo → fruto,Donna,soil_N _mineral _sinincubar,yield_Com Ton/ha,16,0.33529411764705885,0.20425458084551512,0.8747785529819908
+Suelo → fruto,Donna,soil_N _mineral _sinincubar,yield_No com Ton/ha,16,0.4852941176470588,0.05671771428191194,0.8747785529819908
+Suelo → fruto,Donna,soil_N _mineral _sinincubar,yield_g/planta,16,0.3941176470588235,0.13091285429899105,0.8747785529819908
+Suelo → fruto,Donna,soil_N _mineral _sinincubar,fruit_Weight,16,-0.15588235294117647,0.5642819694728023,0.9408455759735445
+Suelo → fruto,Donna,soil_N _mineral _sinincubar,fruit_Hydrat,16,0.17218547707878862,0.5236929036366568,0.9321592569606658
+Suelo → fruto,Donna,soil_N _mineral _sinincubar,fruit_Firm,16,-0.014727556472813109,0.9568284446885975,0.9913748045563624
+Suelo → fruto,Donna,soil_N _mineral _sinincubar,fruit_Hue,16,0.1176470588235294,0.6643410791623536,0.9606436403205733
+Suelo → fruto,Donna,soil_N _mineral _sinincubar,fruit_Chroma,16,0.12941176470588234,0.63288233246826,0.9606436403205733
+Suelo → fruto,Donna,soil_N _mineral _sinincubar,fruit_BRIX,16,-0.3357882875801389,0.20354682447017156,0.8747785529819908
+Suelo → fruto,Donna,soil_N _mineral _sinincubar,fruit_Acidity,16,-0.18491447981685583,0.49296023462891514,0.9321592569606658
+Suelo → fruto,Donna,soil_N _mineral _sinincubar,Total polyphenols,16,-0.12058823529411765,0.6564245147485952,0.9606436403205733
+Suelo → fruto,Donna,soil_N _mineral _sinincubar,Tot anth,16,0.28529411764705886,0.28413874015956303,0.8747785529819908
+Suelo → fruto,Donna,soil_N _mineral _sinincubar,Vit C,16,-0.1780721600558412,0.5093726614235989,0.9321592569606658
+Suelo → fruto,Donna,soil_N_mineral_incubado,yield_Com Ton/ha,16,0.3029411764705882,0.2540668806096115,0.8747785529819908
+Suelo → fruto,Donna,soil_N_mineral_incubado,yield_No com Ton/ha,16,0.36470588235294116,0.16486839724475405,0.8747785529819908
+Suelo → fruto,Donna,soil_N_mineral_incubado,yield_g/planta,16,0.4764705882352941,0.062059174189226164,0.8747785529819908
+Suelo → fruto,Donna,soil_N_mineral_incubado,fruit_Weight,16,-0.2411764705882353,0.36820660804263405,0.886423315658193
+Suelo → fruto,Donna,soil_N_mineral_incubado,fruit_Hydrat,16,0.1604121111246834,0.5528708959771769,0.9408455759735445
+Suelo → fruto,Donna,soil_N_mineral_incubado,fruit_Firm,16,0.06627400412765899,0.8073398351880664,0.9606436403205733
+Suelo → fruto,Donna,soil_N_mineral_incubado,fruit_Hue,16,0.0058823529411764705,0.9827505044191351,0.9913748045563624
+Suelo → fruto,Donna,soil_N_mineral_incubado,fruit_Chroma,16,0.15294117647058825,0.5717446192454616,0.9408455759735445
+Suelo → fruto,Donna,soil_N_mineral_incubado,fruit_BRIX,16,-0.36818891182032776,0.16056840388724306,0.8747785529819908
+Suelo → fruto,Donna,soil_N_mineral_incubado,fruit_Acidity,16,-0.27219411429041174,0.3077847856547965,0.886423315658193
+Suelo → fruto,Donna,soil_N_mineral_incubado,Total polyphenols,16,-0.01764705882352941,0.9482801500547112,0.9913748045563624
+Suelo → fruto,Donna,soil_N_mineral_incubado,Tot anth,16,-0.10294117647058824,0.7044103818167706,0.9606436403205733
+Suelo → fruto,Donna,soil_N_mineral_incubado,Vit C,16,-0.06328184200331548,0.8158960436310546,0.9606436403205733
+Suelo → fruto,Dream,soil_Densidad ap,yield_Com Ton/ha,16,0.22941176470588234,0.39272049088161975,0.9710321794755039
+Suelo → fruto,Dream,soil_Densidad ap,yield_No com Ton/ha,16,0.12352941176470587,0.6485420669723405,0.9710321794755039
+Suelo → fruto,Dream,soil_Densidad ap,yield_Nº de plantes,16,-0.18333969940564226,0.49671514866021327,0.9710321794755039
+Suelo → fruto,Dream,soil_Densidad ap,yield_g/planta,16,0.37058823529411766,0.15765046473782054,0.9642433211991689
+Suelo → fruto,Dream,soil_Densidad ap,fruit_Weight,16,0.10007361060989424,0.7123131402394751,0.9710321794755039
+Suelo → fruto,Dream,soil_Densidad ap,fruit_Hydrat,16,-0.36176470588235293,0.16855882250388438,0.9642433211991689
+Suelo → fruto,Dream,soil_Densidad ap,fruit_Firm,16,0.13843903084444323,0.6091338639116805,0.9710321794755039
+Suelo → fruto,Dream,soil_Densidad ap,fruit_Hue,15,-0.3142857142857143,0.2539400163236714,0.9642433211991689
+Suelo → fruto,Dream,soil_Densidad ap,fruit_Chroma,15,0.014285714285714282,0.9596997645989476,0.9879262282636225
+Suelo → fruto,Dream,soil_Densidad ap,fruit_BRIX,16,-0.26362326086335464,0.32386141250862055,0.9710321794755039
+Suelo → fruto,Dream,soil_Densidad ap,fruit_Acidity,16,-0.2505533020416188,0.3492908003916062,0.9710321794755039
+Suelo → fruto,Dream,soil_Densidad ap,Total polyphenols,16,-0.2823529411764706,0.2893498290632739,0.9642433211991689
+Suelo → fruto,Dream,soil_Densidad ap,Tot anth,13,-0.24175824175824176,0.42617551959450883,0.9710321794755039
+Suelo → fruto,Dream,soil_Densidad ap,Vit C,16,-0.3941176470588235,0.13091285429899105,0.9163899800929374
+Suelo → fruto,Dream,soil_C org,yield_Com Ton/ha,16,0.03823529411764706,0.8881976539853073,0.9710321794755039
+Suelo → fruto,Dream,soil_C org,yield_No com Ton/ha,16,0.33529411764705885,0.20425458084551512,0.9642433211991689
+Suelo → fruto,Dream,soil_C org,yield_Nº de plantes,16,-0.06569672562035515,0.8089890234517043,0.9710321794755039
+Suelo → fruto,Dream,soil_C org,yield_g/planta,16,0.08529411764705883,0.7534650694747832,0.9710321794755039
+Suelo → fruto,Dream,soil_C org,fruit_Weight,16,-0.15011041591484137,0.5789661794244588,0.9710321794755039
+Suelo → fruto,Dream,soil_C org,fruit_Hydrat,16,-0.02647058823529412,0.9224805705017287,0.9710321794755039
+Suelo → fruto,Dream,soil_C org,fruit_Firm,16,-0.06921951542222161,0.7989369729278051,0.9710321794755039
+Suelo → fruto,Dream,soil_C org,fruit_Hue,15,0.28928571428571426,0.29566536100437785,0.9642433211991689
+Suelo → fruto,Dream,soil_C org,fruit_Chroma,15,-0.0857142857142857,0.7613341261907667,0.9710321794755039
+Suelo → fruto,Dream,soil_C org,fruit_BRIX,16,0.14285729778628717,0.5976406850701259,0.9710321794755039
+Suelo → fruto,Dream,soil_C org,fruit_Acidity,16,0.27855631815215265,0.29616044865403046,0.9642433211991689
+Suelo → fruto,Dream,soil_C org,Total polyphenols,16,0.4617647058823529,0.07176841584053797,0.9163899800929374
+Suelo → fruto,Dream,soil_C org,Tot anth,13,-0.07142857142857142,0.8166280406760861,0.9710321794755039
+Suelo → fruto,Dream,soil_C org,Vit C,16,0.0411764705882353,0.8796536149318311,0.9710321794755039
+Suelo → fruto,Dream,soil_C:N,yield_Com Ton/ha,16,0.2588235294117647,0.3330723066336081,0.9710321794755039
+Suelo → fruto,Dream,soil_C:N,yield_No com Ton/ha,16,-0.16176470588235295,0.5494831434036929,0.9710321794755039
+Suelo → fruto,Dream,soil_C:N,yield_Nº de plantes,16,-0.4705718951411485,0.06583014448793939,0.9163899800929374
+Suelo → fruto,Dream,soil_C:N,yield_g/planta,16,0.4176470588235294,0.1074740793993006,0.9163899800929374
+Suelo → fruto,Dream,soil_C:N,fruit_Weight,16,0.5091980775150501,0.04395352080184379,0.8790704160368757
+Suelo → fruto,Dream,soil_C:N,fruit_Hydrat,16,0.2529411764705882,0.34456303133749866,0.9710321794755039
+Suelo → fruto,Dream,soil_C:N,fruit_Firm,16,0.3048604189872314,0.2509200064992101,0.9642433211991689
+Suelo → fruto,Dream,soil_C:N,fruit_Hue,15,0.017857142857142853,0.9496353041738621,0.9848069821062273
+Suelo → fruto,Dream,soil_C:N,fruit_Chroma,15,-0.17857142857142855,0.5242843600465525,0.9710321794755039
+Suelo → fruto,Dream,soil_C:N,fruit_BRIX,16,0.07069227106950293,0.7947432267255311,0.9710321794755039
+Suelo → fruto,Dream,soil_C:N,fruit_Acidity,16,0.29624243359038455,0.2652405966958854,0.9642433211991689
+Suelo → fruto,Dream,soil_C:N,Total polyphenols,16,-0.0029411764705882353,0.9913748045563624,1.0
+Suelo → fruto,Dream,soil_C:N,Tot anth,13,0.24175824175824176,0.42617551959450883,0.9710321794755039
+Suelo → fruto,Dream,soil_C:N,Vit C,16,0.3970588235294118,0.1278060090882619,0.9163899800929374
+Suelo → fruto,Dream,soil_Microbial_biomass_C_sinincubar,yield_Com Ton/ha,16,-0.10588235294117648,0.6963341050381157,0.9710321794755039
+Suelo → fruto,Dream,soil_Microbial_biomass_C_sinincubar,yield_No com Ton/ha,16,0.3147058823529411,0.23515831926634445,0.9642433211991689
+Suelo → fruto,Dream,soil_Microbial_biomass_C_sinincubar,yield_Nº de plantes,16,-0.0320844473959874,0.9061020168775327,0.9710321794755039
+Suelo → fruto,Dream,soil_Microbial_biomass_C_sinincubar,yield_g/planta,16,0.0,1.0,1.0
+Suelo → fruto,Dream,soil_Microbial_biomass_C_sinincubar,fruit_Weight,16,0.026490073396736705,0.9224236679740601,0.9710321794755039
+Suelo → fruto,Dream,soil_Microbial_biomass_C_sinincubar,fruit_Hydrat,16,-0.39999999999999997,0.12475042359840012,0.9163899800929374
+Suelo → fruto,Dream,soil_Microbial_biomass_C_sinincubar,fruit_Firm,16,0.24153192615413502,0.3674794156274329,0.9710321794755039
+Suelo → fruto,Dream,soil_Microbial_biomass_C_sinincubar,fruit_Hue,15,0.11071428571428568,0.6944626472070963,0.9710321794755039
+Suelo → fruto,Dream,soil_Microbial_biomass_C_sinincubar,fruit_Chroma,15,0.2964285714285714,0.28335542843426287,0.9642433211991689
+Suelo → fruto,Dream,soil_Microbial_biomass_C_sinincubar,fruit_BRIX,16,0.1340207639025993,0.6207133719215653,0.9710321794755039
+Suelo → fruto,Dream,soil_Microbial_biomass_C_sinincubar,fruit_Acidity,16,-0.22402412888427087,0.40423237642295806,0.9710321794755039
+Suelo → fruto,Dream,soil_Microbial_biomass_C_sinincubar,Total polyphenols,16,-0.18823529411764706,0.4850866091454682,0.9710321794755039
+Suelo → fruto,Dream,soil_Microbial_biomass_C_sinincubar,Tot anth,13,-0.049450549450549455,0.8725444288811492,0.9710321794755039
+Suelo → fruto,Dream,soil_Microbial_biomass_C_sinincubar,Vit C,16,-0.25588235294117645,0.33878990807124576,0.9710321794755039
+Suelo → fruto,Dream,soil_Microbial_biomass_C_incubado,yield_Com Ton/ha,16,-0.18823529411764706,0.4850866091454682,0.9710321794755039
+Suelo → fruto,Dream,soil_Microbial_biomass_C_incubado,yield_No com Ton/ha,16,-0.5294117647058824,0.03495200678951809,0.8155468250887554
+Suelo → fruto,Dream,soil_Microbial_biomass_C_incubado,yield_Nº de plantes,16,-0.0641688947919748,0.8133574024859543,0.9710321794755039
+Suelo → fruto,Dream,soil_Microbial_biomass_C_incubado,yield_g/planta,16,-0.1176470588235294,0.6643410791623536,0.9710321794755039
+Suelo → fruto,Dream,soil_Microbial_biomass_C_incubado,fruit_Weight,16,0.06622518349184178,0.8074792782469515,0.9710321794755039
+Suelo → fruto,Dream,soil_Microbial_biomass_C_incubado,fruit_Hydrat,16,-0.055882352941176466,0.8371372217954723,0.9710321794755039
+Suelo → fruto,Dream,soil_Microbial_biomass_C_incubado,fruit_Firm,16,0.5891022589125244,0.0163417482049106,0.6058738525298698
+Suelo → fruto,Dream,soil_Microbial_biomass_C_incubado,fruit_Hue,15,-0.1357142857142857,0.6296204418728145,0.9710321794755039
+Suelo → fruto,Dream,soil_Microbial_biomass_C_incubado,fruit_Chroma,15,-0.175,0.5327481481378592,0.9710321794755039
+Suelo → fruto,Dream,soil_Microbial_biomass_C_incubado,fruit_BRIX,16,0.2989693963981061,0.26065625993010616,0.9642433211991689
+Suelo → fruto,Dream,soil_Microbial_biomass_C_incubado,fruit_Acidity,16,-0.03389838792327783,0.900817078070583,0.9710321794755039
+Suelo → fruto,Dream,soil_Microbial_biomass_C_incubado,Total polyphenols,16,-0.3970588235294118,0.1278060090882619,0.9163899800929374
+Suelo → fruto,Dream,soil_Microbial_biomass_C_incubado,Tot anth,13,0.33516483516483514,0.2629431403593602,0.9642433211991689
+Suelo → fruto,Dream,soil_Microbial_biomass_C_incubado,Vit C,16,0.09999999999999999,0.7125163701282782,0.9710321794755039
+Suelo → fruto,Dream,soil_N_microbiano_sinincubar,yield_Com Ton/ha,16,-0.530975761509718,0.03431888884983807,0.8155468250887554
+Suelo → fruto,Dream,soil_N_microbiano_sinincubar,yield_No com Ton/ha,16,0.026548788075485902,0.9222522055991307,0.9710321794755039
+Suelo → fruto,Dream,soil_N_microbiano_sinincubar,yield_Nº de plantes,16,-0.08121425165990111,0.7649406260273894,0.9710321794755039
+Suelo → fruto,Dream,soil_N_microbiano_sinincubar,yield_g/planta,16,-0.3185854569058308,0.22912259920518316,0.9642433211991689
+Suelo → fruto,Dream,soil_N_microbiano_sinincubar,fruit_Weight,16,0.14022174589051337,0.604485997436377,0.9710321794755039
+Suelo → fruto,Dream,soil_N_microbiano_sinincubar,fruit_Hydrat,16,-0.21239030460388722,0.42969126233335486,0.9710321794755039
+Suelo → fruto,Dream,soil_N_microbiano_sinincubar,fruit_Firm,16,0.41358981603830614,0.11128778678564782,0.9163899800929374
+Suelo → fruto,Dream,soil_N_microbiano_sinincubar,fruit_Hue,15,-0.07526930068692868,0.7897741070479636,0.9710321794755039
+Suelo → fruto,Dream,soil_N_microbiano_sinincubar,fruit_Chroma,15,-0.06810079585960212,0.8094385080505535,0.9710321794755039
+Suelo → fruto,Dream,soil_N_microbiano_sinincubar,fruit_BRIX,16,0.21270333396255744,0.4289956296396735,0.9710321794755039
+Suelo → fruto,Dream,soil_N_microbiano_sinincubar,fruit_Acidity,16,-0.35328908393030195,0.17949978796346577,0.9642433211991689
+Suelo → fruto,Dream,soil_N_microbiano_sinincubar,Total polyphenols,16,-0.14159353640259145,0.6009191469257025,0.9710321794755039
+Suelo → fruto,Dream,soil_N_microbiano_sinincubar,Tot anth,13,-0.09392408541867107,0.7602133686577797,0.9710321794755039
+Suelo → fruto,Dream,soil_N_microbiano_sinincubar,Vit C,16,-0.171092189819798,0.5263725063503317,0.9710321794755039
+Suelo → fruto,Dream,soil_N_microbiano_incubado,yield_Com Ton/ha,16,0.056047441492692446,0.8366621075245623,0.9710321794755039
+Suelo → fruto,Dream,soil_N_microbiano_incubado,yield_No com Ton/ha,16,-0.4808280507004669,0.059377102561616,0.9163899800929374
+Suelo → fruto,Dream,soil_N_microbiano_incubado,yield_Nº de plantes,16,-0.07355252980519346,0.7866136231995422,0.9710321794755039
+Suelo → fruto,Dream,soil_N_microbiano_incubado,yield_g/planta,16,0.11799461366882621,0.663403835139343,0.9710321794755039
+Suelo → fruto,Dream,soil_N_microbiano_incubado,fruit_Weight,16,0.03837647782266681,0.8877872480908717,0.9710321794755039
+Suelo → fruto,Dream,soil_N_microbiano_incubado,fruit_Hydrat,16,-0.10914501764366424,0.6874107174734023,0.9710321794755039
+Suelo → fruto,Dream,soil_N_microbiano_incubado,fruit_Firm,16,0.5849341683970328,0.017310681500853423,0.6058738525298698
+Suelo → fruto,Dream,soil_N_microbiano_incubado,fruit_Hue,15,0.0,1.0,1.0
+Suelo → fruto,Dream,soil_N_microbiano_incubado,fruit_Chroma,15,-0.053763786204949045,0.8490756334729881,0.9710321794755039
+Suelo → fruto,Dream,soil_N_microbiano_incubado,fruit_BRIX,16,0.12112273183978967,0.6549894893775843,0.9710321794755039
+Suelo → fruto,Dream,soil_N_microbiano_incubado,fruit_Acidity,16,0.1345159273542154,0.6194114091389256,0.9710321794755039
+Suelo → fruto,Dream,soil_N_microbiano_incubado,Total polyphenols,16,-0.42773047454949503,0.09839557931424096,0.9163899800929374
+Suelo → fruto,Dream,soil_N_microbiano_incubado,Tot anth,13,0.33562617720724497,0.26224557983406593,0.9642433211991689
+Suelo → fruto,Dream,soil_N_microbiano_incubado,Vit C,16,0.07374663354301639,0.7860626678128033,0.9710321794755039
+Suelo → fruto,Dream,soil_Respiracion_microb (ug C-CO2/gsuelo·dia),yield_Com Ton/ha,16,-0.055923488281999716,0.8370188319791677,0.9710321794755039
+Suelo → fruto,Dream,soil_Respiracion_microb (ug C-CO2/gsuelo·dia),yield_No com Ton/ha,16,0.18101550154436752,0.5022815951881107,0.9710321794755039
+Suelo → fruto,Dream,soil_Respiracion_microb (ug C-CO2/gsuelo·dia),yield_Nº de plantes,16,-0.16206928024095515,0.5487215528857103,0.9710321794755039
+Suelo → fruto,Dream,soil_Respiracion_microb (ug C-CO2/gsuelo·dia),yield_g/planta,16,0.12362034251810464,0.648298920937249,0.9710321794755039
+Suelo → fruto,Dream,soil_Respiracion_microb (ug C-CO2/gsuelo·dia),fruit_Weight,16,-0.04050073637702504,0.8816155366777509,0.9710321794755039
+Suelo → fruto,Dream,soil_Respiracion_microb (ug C-CO2/gsuelo·dia),fruit_Hydrat,16,-0.28991913661984064,0.2760591963386807,0.9642433211991689
+Suelo → fruto,Dream,soil_Respiracion_microb (ug C-CO2/gsuelo·dia),fruit_Firm,16,-0.10390570249453462,0.7017585458334965,0.9710321794755039
+Suelo → fruto,Dream,soil_Respiracion_microb (ug C-CO2/gsuelo·dia),fruit_Hue,15,0.08400360816365664,0.7659736448940244,0.9710321794755039
+Suelo → fruto,Dream,soil_Respiracion_microb (ug C-CO2/gsuelo·dia),fruit_Chroma,15,-0.10545133790756898,0.7083853743390801,0.9710321794755039
+Suelo → fruto,Dream,soil_Respiracion_microb (ug C-CO2/gsuelo·dia),fruit_BRIX,16,-0.2837141522013889,0.2869310184742796,0.9642433211991689
+Suelo → fruto,Dream,soil_Respiracion_microb (ug C-CO2/gsuelo·dia),fruit_Acidity,16,-0.3141596337481885,0.23601610005184154,0.9642433211991689
+Suelo → fruto,Dream,soil_Respiracion_microb (ug C-CO2/gsuelo·dia),Total polyphenols,16,0.15011041591484134,0.5789661794244588,0.9710321794755039
+Suelo → fruto,Dream,soil_Respiracion_microb (ug C-CO2/gsuelo·dia),Tot anth,13,-0.32417582417582413,0.2798818688931399,0.9642433211991689
+Suelo → fruto,Dream,soil_Respiracion_microb (ug C-CO2/gsuelo·dia),Vit C,16,-0.4326711988133663,0.09415165852181163,0.9163899800929374
+Suelo → fruto,Dream,soil_N _mineral _sinincubar,yield_Com Ton/ha,16,-0.25,0.3503914791072017,0.9710321794755039
+Suelo → fruto,Dream,soil_N _mineral _sinincubar,yield_No com Ton/ha,16,0.40294117647058825,0.12174576295254302,0.9163899800929374
+Suelo → fruto,Dream,soil_N _mineral _sinincubar,yield_Nº de plantes,16,0.21847980845839038,0.41626370874786045,0.9710321794755039
+Suelo → fruto,Dream,soil_N _mineral _sinincubar,yield_g/planta,16,-0.15588235294117647,0.5642819694728023,0.9710321794755039
+Suelo → fruto,Dream,soil_N _mineral _sinincubar,fruit_Weight,16,-0.2281089653607883,0.3954878909103696,0.9710321794755039
+Suelo → fruto,Dream,soil_N _mineral _sinincubar,fruit_Hydrat,16,0.03529411764705882,0.8967532476935333,0.9710321794755039
+Suelo → fruto,Dream,soil_N _mineral _sinincubar,fruit_Firm,16,0.15758485425910027,0.559981347903216,0.9710321794755039
+Suelo → fruto,Dream,soil_N _mineral _sinincubar,fruit_Hue,15,0.4535714285714285,0.08948590014302728,0.9163899800929374
+Suelo → fruto,Dream,soil_N _mineral _sinincubar,fruit_Chroma,15,0.6892857142857142,0.0044737344509062004,0.4556969686300806
+Suelo → fruto,Dream,soil_N _mineral _sinincubar,fruit_BRIX,16,-0.06774675977494031,0.8031358772919064,0.9710321794755039
+Suelo → fruto,Dream,soil_N _mineral _sinincubar,fruit_Acidity,16,-0.2977162765435706,0.2627568150171629,0.9642433211991689
+Suelo → fruto,Dream,soil_N _mineral _sinincubar,Total polyphenols,16,0.0058823529411764705,0.9827505044191351,1.0
+Suelo → fruto,Dream,soil_N _mineral _sinincubar,Tot anth,13,0.11538461538461539,0.7073898735142602,0.9710321794755039
+Suelo → fruto,Dream,soil_N _mineral _sinincubar,Vit C,16,-0.11176470588235293,0.6802736949858406,0.9710321794755039
+Suelo → fruto,Dream,soil_N_mineral_incubado,yield_Com Ton/ha,16,-0.18823529411764706,0.4850866091454682,0.9710321794755039
+Suelo → fruto,Dream,soil_N_mineral_incubado,yield_No com Ton/ha,16,0.2029411764705882,0.45096124172270946,0.9710321794755039
+Suelo → fruto,Dream,soil_N_mineral_incubado,yield_Nº de plantes,16,0.2566755791678992,0.33724241285915824,0.9710321794755039
+Suelo → fruto,Dream,soil_N_mineral_incubado,yield_g/planta,16,-0.17058823529411765,0.527609768861268,0.9710321794755039
+Suelo → fruto,Dream,soil_N_mineral_incubado,fruit_Weight,16,-0.18690218452142013,0.4882401123243091,0.9710321794755039
+Suelo → fruto,Dream,soil_N_mineral_incubado,fruit_Hydrat,16,-0.01764705882352941,0.9482801500547112,0.9848069821062273
+Suelo → fruto,Dream,soil_N_mineral_incubado,fruit_Firm,16,0.17820343332103863,0.5090554109755978,0.9710321794755039
+Suelo → fruto,Dream,soil_N_mineral_incubado,fruit_Hue,15,0.3428571428571428,0.21092379341475206,0.9642433211991689
+Suelo → fruto,Dream,soil_N_mineral_incubado,fruit_Chroma,15,0.6678571428571428,0.006509956694715437,0.4556969686300806
+Suelo → fruto,Dream,soil_N_mineral_incubado,fruit_BRIX,16,-0.16789414379006945,0.5342462970774742,0.9710321794755039
+Suelo → fruto,Dream,soil_N_mineral_incubado,fruit_Acidity,16,-0.21665491411834095,0.4202643762171234,0.9710321794755039
+Suelo → fruto,Dream,soil_N_mineral_incubado,Total polyphenols,16,-0.38235294117647056,0.14385924954389048,0.9590616636259366
+Suelo → fruto,Dream,soil_N_mineral_incubado,Tot anth,13,0.049450549450549455,0.8725444288811492,0.9710321794755039
+Suelo → fruto,Dream,soil_N_mineral_incubado,Vit C,16,0.07058823529411765,0.7950393023376279,0.9710321794755039
+Nutrición hoja → fruto,Donna,leaf_iso_%N_March,yield_Com Ton/ha,16,-0.12941176470588234,0.63288233246826,0.9768083992475839
+Nutrición hoja → fruto,Donna,leaf_iso_%N_March,yield_No com Ton/ha,16,0.4176470588235294,0.1074740793993006,0.7983788755376617
+Nutrición hoja → fruto,Donna,leaf_iso_%N_March,yield_g/planta,16,-0.032352941176470584,0.9053195187918449,0.9768083992475839
+Nutrición hoja → fruto,Donna,leaf_iso_%N_March,fruit_Weight,16,-0.0588235294117647,0.8286807500332258,0.9768083992475839
+Nutrición hoja → fruto,Donna,leaf_iso_%N_March,fruit_Hydrat,16,0.3399559419247878,0.19764090965476153,0.8322727245193487
+Nutrición hoja → fruto,Donna,leaf_iso_%N_March,fruit_Firm,16,-0.11634769613522357,0.667849165946428,0.9768083992475839
+Nutrición hoja → fruto,Donna,leaf_iso_%N_March,fruit_Hue,16,0.1176470588235294,0.6643410791623536,0.9768083992475839
+Nutrición hoja → fruto,Donna,leaf_iso_%N_March,fruit_Chroma,16,-0.10882352941176471,0.688288293957414,0.9768083992475839
+Nutrición hoja → fruto,Donna,leaf_iso_%N_March,fruit_BRIX,16,-0.12371147437163012,0.6480552705820453,0.9768083992475839
+Nutrición hoja → fruto,Donna,leaf_iso_%N_March,fruit_Acidity,16,0.21745942826462247,0.4184981953823822,0.9472479096766562
+Nutrición hoja → fruto,Donna,leaf_iso_%N_March,Total polyphenols,16,0.3852941176470588,0.1405441773736763,0.8120330248256853
+Nutrición hoja → fruto,Donna,leaf_iso_%N_March,Tot anth,16,-0.25588235294117645,0.33878990807124576,0.9110178456787243
+Nutrición hoja → fruto,Donna,leaf_iso_%N_March,Vit C,16,0.2281089653607883,0.3954878909103696,0.9455342679236423
+Nutrición hoja → fruto,Donna,leaf_iso_%N_May,yield_Com Ton/ha,16,0.5176470588235293,0.04000179295956069,0.7983788755376617
+Nutrición hoja → fruto,Donna,leaf_iso_%N_May,yield_No com Ton/ha,16,0.3529411764705882,0.17995865788498183,0.8137173400308123
+Nutrición hoja → fruto,Donna,leaf_iso_%N_May,yield_g/planta,16,0.44117647058823534,0.08715363626051081,0.7983788755376617
+Nutrición hoja → fruto,Donna,leaf_iso_%N_May,fruit_Weight,16,0.2411764705882353,0.36820660804263405,0.9339874935715596
+Nutrición hoja → fruto,Donna,leaf_iso_%N_May,fruit_Hydrat,16,0.3885210764854718,0.13696740259676954,0.8120330248256853
+Nutrición hoja → fruto,Donna,leaf_iso_%N_May,fruit_Firm,16,-0.32842450934373235,0.21425798262531892,0.8408615167182328
+Nutrición hoja → fruto,Donna,leaf_iso_%N_May,fruit_Hue,16,-0.4764705882352941,0.062059174189226164,0.7983788755376617
+Nutrición hoja → fruto,Donna,leaf_iso_%N_May,fruit_Chroma,16,-0.538235294117647,0.031493228205838324,0.7983788755376617
+Nutrición hoja → fruto,Donna,leaf_iso_%N_May,fruit_BRIX,16,-0.0530192033021272,0.8453854450788838,0.9768083992475839
+Nutrición hoja → fruto,Donna,leaf_iso_%N_May,fruit_Acidity,16,-0.3920186972117344,0.13316155714206077,0.8120330248256853
+Nutrición hoja → fruto,Donna,leaf_iso_%N_May,Total polyphenols,16,0.13823529411764704,0.6096659407501825,0.9768083992475839
+Nutrición hoja → fruto,Donna,leaf_iso_%N_May,Tot anth,16,0.4264705882352941,0.09949911193753967,0.7983788755376617
+Nutrición hoja → fruto,Donna,leaf_iso_%N_May,Vit C,16,0.3061075148067353,0.24888821976382539,0.8568473928745831
+Nutrición hoja → fruto,Donna,leaf_iso_d13C_March,yield_Com Ton/ha,16,-0.2529411764705882,0.34456303133749866,0.9110178456787243
+Nutrición hoja → fruto,Donna,leaf_iso_d13C_March,yield_No com Ton/ha,16,0.3558823529411765,0.1761037380915931,0.8137173400308123
+Nutrición hoja → fruto,Donna,leaf_iso_d13C_March,yield_g/planta,16,-0.21764705882352942,0.41808684161130294,0.9472479096766562
+Nutrición hoja → fruto,Donna,leaf_iso_d13C_March,fruit_Weight,16,0.2823529411764706,0.2893498290632739,0.898280066345686
+Nutrición hoja → fruto,Donna,leaf_iso_d13C_March,fruit_Hydrat,16,-0.019131719675420957,0.943935039657521,0.9768083992475839
+Nutrición hoja → fruto,Donna,leaf_iso_d13C_March,fruit_Firm,16,0.0927836057787226,0.7325260865203346,0.9768083992475839
+Nutrición hoja → fruto,Donna,leaf_iso_d13C_March,fruit_Hue,16,0.0588235294117647,0.8286807500332258,0.9768083992475839
+Nutrición hoja → fruto,Donna,leaf_iso_d13C_March,fruit_Chroma,16,-0.08823529411764705,0.7452220943671326,0.9768083992475839
+Nutrición hoja → fruto,Donna,leaf_iso_d13C_March,fruit_BRIX,16,-0.05154644765484589,0.849634115197502,0.9768083992475839
+Nutrición hoja → fruto,Donna,leaf_iso_d13C_March,fruit_Acidity,16,0.11242800372864832,0.6784706215489649,0.9768083992475839
+Nutrición hoja → fruto,Donna,leaf_iso_d13C_March,Total polyphenols,16,-0.055882352941176466,0.8371372217954723,0.9768083992475839
+Nutrición hoja → fruto,Donna,leaf_iso_d13C_March,Tot anth,16,-0.2647058823529412,0.3218043958686153,0.9110178456787243
+Nutrición hoja → fruto,Donna,leaf_iso_d13C_March,Vit C,16,0.09860193986563108,0.7163796723063032,0.9768083992475839
+Nutrición hoja → fruto,Donna,leaf_iso_d13C_May,yield_Com Ton/ha,16,-0.35320097862315614,0.17961592072043114,0.8137173400308123
+Nutrición hoja → fruto,Donna,leaf_iso_d13C_May,yield_No com Ton/ha,16,-0.5150847604921027,0.0411707961625349,0.7983788755376617
+Nutrición hoja → fruto,Donna,leaf_iso_d13C_May,yield_g/planta,16,-0.3119941977837879,0.23943581954856008,0.8568473928745831
+Nutrición hoja → fruto,Donna,leaf_iso_d13C_May,fruit_Weight,16,-0.06622518349184178,0.8074792782469515,0.9768083992475839
+Nutrición hoja → fruto,Donna,leaf_iso_d13C_May,fruit_Hydrat,16,0.09720176730486009,0.7202552852918166,0.9768083992475839
+Nutrición hoja → fruto,Donna,leaf_iso_d13C_May,fruit_Firm,16,-0.06927046832968975,0.7987917952034144,0.9768083992475839
+Nutrición hoja → fruto,Donna,leaf_iso_d13C_May,fruit_Hue,16,-0.07505520795742067,0.7823508285466043,0.9768083992475839
+Nutrición hoja → fruto,Donna,leaf_iso_d13C_May,fruit_Chroma,16,0.23399564833784092,0.3830667243535951,0.9414431595992102
+Nutrición hoja → fruto,Donna,leaf_iso_d13C_May,fruit_BRIX,16,-0.03831983354408369,0.8879519037315494,0.9768083992475839
+Nutrición hoja → fruto,Donna,leaf_iso_d13C_May,fruit_Acidity,16,-0.11843238175566831,0.6622239805142698,0.9768083992475839
+Nutrición hoja → fruto,Donna,leaf_iso_d13C_May,Total polyphenols,16,0.1633554526132097,0.5455105840229945,0.974030131565774
+Nutrición hoja → fruto,Donna,leaf_iso_d13C_May,Tot anth,16,-0.08388523242299958,0.7574225448483594,0.9768083992475839
+Nutrición hoja → fruto,Donna,leaf_iso_d13C_May,Vit C,16,0.1605301914580265,0.5525747861767372,0.974030131565774
+Nutrición hoja → fruto,Donna,leaf_nut_Ca_March,yield_Com Ton/ha,16,0.3529411764705882,0.17995865788498183,0.8137173400308123
+Nutrición hoja → fruto,Donna,leaf_nut_Ca_March,yield_No com Ton/ha,16,-0.10294117647058824,0.7044103818167706,0.9768083992475839
+Nutrición hoja → fruto,Donna,leaf_nut_Ca_March,yield_g/planta,16,0.36764705882352944,0.1612323576755899,0.8137173400308123
+Nutrición hoja → fruto,Donna,leaf_nut_Ca_March,fruit_Weight,16,-0.11176470588235293,0.6802736949858406,0.9768083992475839
+Nutrición hoja → fruto,Donna,leaf_nut_Ca_March,fruit_Hydrat,16,0.02207506116394726,0.9353253445612628,0.9768083992475839
+Nutrición hoja → fruto,Donna,leaf_nut_Ca_March,fruit_Firm,16,-0.02503684600378229,0.9266684786803481,0.9768083992475839
+Nutrición hoja → fruto,Donna,leaf_nut_Ca_March,fruit_Hue,16,-0.43529411764705883,0.09195235850572929,0.7983788755376617
+Nutrición hoja → fruto,Donna,leaf_nut_Ca_March,fruit_Chroma,16,-0.07058823529411765,0.7950393023376279,0.9768083992475839
+Nutrición hoja → fruto,Donna,leaf_nut_Ca_March,fruit_BRIX,16,-0.25184121568510415,0.3467363277672534,0.9110178456787243
+Nutrición hoja → fruto,Donna,leaf_nut_Ca_March,fruit_Acidity,16,-0.30917701025378297,0.24393098527956456,0.8568473928745831
+Nutrición hoja → fruto,Donna,leaf_nut_Ca_March,Total polyphenols,16,-0.02647058823529412,0.9224805705017287,0.9768083992475839
+Nutrición hoja → fruto,Donna,leaf_nut_Ca_March,Tot anth,16,-0.0058823529411764705,0.9827505044191351,0.9913748045563624
+Nutrición hoja → fruto,Donna,leaf_nut_Ca_March,Vit C,16,-0.08241356167873642,0.7615624197209059,0.9768083992475839
+Nutrición hoja → fruto,Donna,leaf_nut_Ca_May,yield_Com Ton/ha,16,0.4176470588235294,0.1074740793993006,0.7983788755376617
+Nutrición hoja → fruto,Donna,leaf_nut_Ca_May,yield_No com Ton/ha,16,0.5,0.04858028888702393,0.7983788755376617
+Nutrición hoja → fruto,Donna,leaf_nut_Ca_May,yield_g/planta,16,0.4852941176470588,0.05671771428191194,0.7983788755376617
+Nutrición hoja → fruto,Donna,leaf_nut_Ca_May,fruit_Weight,16,-0.4323529411764706,0.09442103753478695,0.7983788755376617
+Nutrición hoja → fruto,Donna,leaf_nut_Ca_May,fruit_Hydrat,16,0.5150847604921026,0.04117079616253491,0.7983788755376617
+Nutrición hoja → fruto,Donna,leaf_nut_Ca_May,fruit_Firm,16,-0.2047130349721022,0.44693302299974613,0.9472479096766562
+Nutrición hoja → fruto,Donna,leaf_nut_Ca_May,fruit_Hue,16,-0.18235294117647058,0.49907485724580014,0.9472479096766562
+Nutrición hoja → fruto,Donna,leaf_nut_Ca_May,fruit_Chroma,16,-0.12941176470588234,0.63288233246826,0.9768083992475839
+Nutrición hoja → fruto,Donna,leaf_nut_Ca_May,fruit_BRIX,16,-0.18114894461560122,0.5019612088478841,0.9472479096766562
+Nutrición hoja → fruto,Donna,leaf_nut_Ca_May,fruit_Acidity,16,-0.4023739080814782,0.12232132778687994,0.8120330248256853
+Nutrición hoja → fruto,Donna,leaf_nut_Ca_May,Total polyphenols,16,0.2529411764705882,0.34456303133749866,0.9110178456787243
+Nutrición hoja → fruto,Donna,leaf_nut_Ca_May,Tot anth,16,0.10588235294117648,0.6963341050381157,0.9768083992475839
+Nutrición hoja → fruto,Donna,leaf_nut_Ca_May,Vit C,16,0.3046358440624721,0.25128697579494985,0.8568473928745831
+Nutrición hoja → fruto,Donna,leaf_nut_Fe_March,yield_Com Ton/ha,16,0.2647058823529412,0.3218043958686153,0.9110178456787243
+Nutrición hoja → fruto,Donna,leaf_nut_Fe_March,yield_No com Ton/ha,16,0.19705882352941176,0.46446421122573867,0.9472479096766562
+Nutrición hoja → fruto,Donna,leaf_nut_Fe_March,yield_g/planta,16,0.28529411764705886,0.28413874015956303,0.8954675447452896
+Nutrición hoja → fruto,Donna,leaf_nut_Fe_March,fruit_Weight,16,-0.11176470588235293,0.6802736949858406,0.9768083992475839
+Nutrición hoja → fruto,Donna,leaf_nut_Fe_March,fruit_Hydrat,16,0.04415012232789452,0.8710278748904619,0.9768083992475839
+Nutrición hoja → fruto,Donna,leaf_nut_Fe_March,fruit_Firm,16,0.06921951542222161,0.7989369729278051,0.9768083992475839
+Nutrición hoja → fruto,Donna,leaf_nut_Fe_March,fruit_Hue,16,0.3852941176470588,0.1405441773736763,0.8120330248256853
+Nutrición hoja → fruto,Donna,leaf_nut_Fe_March,fruit_Chroma,16,0.3735294117647059,0.15412246989684827,0.8137173400308123
+Nutrición hoja → fruto,Donna,leaf_nut_Fe_March,fruit_BRIX,16,-0.13107525260803668,0.6284798998498581,0.9768083992475839
+Nutrición hoja → fruto,Donna,leaf_nut_Fe_March,fruit_Acidity,16,0.47633970000822057,0.06214108882318111,0.7983788755376617
+Nutrición hoja → fruto,Donna,leaf_nut_Fe_March,Total polyphenols,16,0.2529411764705882,0.34456303133749866,0.9110178456787243
+Nutrición hoja → fruto,Donna,leaf_nut_Fe_March,Tot anth,16,0.2088235294117647,0.43765851094980035,0.9472479096766562
+Nutrición hoja → fruto,Donna,leaf_nut_Fe_March,Vit C,16,-0.06033850051478917,0.824331718268355,0.9768083992475839
+Nutrición hoja → fruto,Donna,leaf_nut_Fe_May,yield_Com Ton/ha,16,0.03529411764705882,0.8967532476935333,0.9768083992475839
+Nutrición hoja → fruto,Donna,leaf_nut_Fe_May,yield_No com Ton/ha,16,0.29411764705882354,0.268846554622893,0.8737513025244021
+Nutrición hoja → fruto,Donna,leaf_nut_Fe_May,yield_g/planta,16,0.1764705882352941,0.5132505967364669,0.9531796796534385
+Nutrición hoja → fruto,Donna,leaf_nut_Fe_May,fruit_Weight,16,-0.3382352941176471,0.20006555877868962,0.8322727245193487
+Nutrición hoja → fruto,Donna,leaf_nut_Fe_May,fruit_Hydrat,16,0.026490073396736705,0.9224236679740601,0.9768083992475839
+Nutrición hoja → fruto,Donna,leaf_nut_Fe_May,fruit_Firm,16,0.27245979474704257,0.3072940754643128,0.9110178456787243
+Nutrición hoja → fruto,Donna,leaf_nut_Fe_May,fruit_Hue,16,0.16176470588235295,0.5494831434036929,0.974030131565774
+Nutrición hoja → fruto,Donna,leaf_nut_Fe_May,fruit_Chroma,16,0.5852941176470587,0.017225286616094855,0.7165719232295459
+Nutrición hoja → fruto,Donna,leaf_nut_Fe_May,fruit_BRIX,16,0.0058910225891252435,0.9827250849463731,0.9913748045563624
+Nutrición hoja → fruto,Donna,leaf_nut_Fe_May,fruit_Acidity,16,0.1686420055929725,0.5324002961141763,0.9713970315065672
+Nutrición hoja → fruto,Donna,leaf_nut_Fe_May,Total polyphenols,16,0.09999999999999999,0.7125163701282782,0.9768083992475839
+Nutrición hoja → fruto,Donna,leaf_nut_Fe_May,Tot anth,16,-0.3558823529411765,0.1761037380915931,0.8137173400308123
+Nutrición hoja → fruto,Donna,leaf_nut_Fe_May,Vit C,16,-0.12067700102957835,0.656186116862598,0.9768083992475839
+Nutrición hoja → fruto,Donna,leaf_nut_Mg_March,yield_Com Ton/ha,16,-0.30882352941176466,0.24449869579851796,0.8568473928745831
+Nutrición hoja → fruto,Donna,leaf_nut_Mg_March,yield_No com Ton/ha,16,0.2088235294117647,0.43765851094980035,0.9472479096766562
+Nutrición hoja → fruto,Donna,leaf_nut_Mg_March,yield_g/planta,16,-0.21176470588235297,0.431083247239221,0.9472479096766562
+Nutrición hoja → fruto,Donna,leaf_nut_Mg_March,fruit_Weight,16,-0.4176470588235294,0.1074740793993006,0.7983788755376617
+Nutrición hoja → fruto,Donna,leaf_nut_Mg_March,fruit_Hydrat,16,-0.06181017125905231,0.8201115700901211,0.9768083992475839
+Nutrición hoja → fruto,Donna,leaf_nut_Mg_March,fruit_Firm,16,0.029455112945626218,0.9137691228130992,0.9768083992475839
+Nutrición hoja → fruto,Donna,leaf_nut_Mg_March,fruit_Hue,16,-0.011764705882352941,0.9655081698956276,0.9892891593019238
+Nutrición hoja → fruto,Donna,leaf_nut_Mg_March,fruit_Chroma,16,0.06176470588235294,0.8202418775044894,0.9768083992475839
+Nutrición hoja → fruto,Donna,leaf_nut_Mg_March,fruit_BRIX,16,-0.25625948262694814,0.33805366661517655,0.9110178456787243
+Nutrición hoja → fruto,Donna,leaf_nut_Mg_March,fruit_Acidity,16,-0.2588802717435981,0.33296254757092136,0.9110178456787243
+Nutrición hoja → fruto,Donna,leaf_nut_Mg_March,Total polyphenols,16,-0.0411764705882353,0.8796536149318311,0.9768083992475839
+Nutrición hoja → fruto,Donna,leaf_nut_Mg_March,Tot anth,16,-0.2529411764705882,0.34456303133749866,0.9110178456787243
+Nutrición hoja → fruto,Donna,leaf_nut_Mg_March,Vit C,16,-0.2972774903411564,0.26349478009199456,0.8711667784065505
+Nutrición hoja → fruto,Donna,leaf_nut_Mg_May,yield_Com Ton/ha,16,0.5647058823529412,0.022663204844184645,0.7856577679317344
+Nutrición hoja → fruto,Donna,leaf_nut_Mg_May,yield_No com Ton/ha,16,0.3235294117647059,0.2215741250012429,0.8450187848356097
+Nutrición hoja → fruto,Donna,leaf_nut_Mg_May,yield_g/planta,16,0.6235294117647059,0.009855650390922007,0.6833250937705925
+Nutrición hoja → fruto,Donna,leaf_nut_Mg_May,fruit_Weight,16,-0.1264705882352941,0.6406944408168835,0.9768083992475839
+Nutrición hoja → fruto,Donna,leaf_nut_Mg_May,fruit_Hydrat,16,0.6004416636593655,0.013918335647399683,0.7165719232295459
+Nutrición hoja → fruto,Donna,leaf_nut_Mg_May,fruit_Firm,16,-0.3593523779366399,0.17162643559673194,0.8137173400308123
+Nutrición hoja → fruto,Donna,leaf_nut_Mg_May,fruit_Hue,16,-0.3735294117647059,0.15412246989684827,0.8137173400308123
+Nutrición hoja → fruto,Donna,leaf_nut_Mg_May,fruit_Chroma,16,-0.2088235294117647,0.43765851094980035,0.9472479096766562
+Nutrición hoja → fruto,Donna,leaf_nut_Mg_May,fruit_BRIX,16,-0.12665698566619274,0.6401982860405846,0.9768083992475839
+Nutrición hoja → fruto,Donna,leaf_nut_Mg_May,fruit_Acidity,16,-0.4600672257843373,0.07295623860884481,0.7983788755376617
+Nutrición hoja → fruto,Donna,leaf_nut_Mg_May,Total polyphenols,16,0.18529411764705883,0.4920570502059438,0.9472479096766562
+Nutrición hoja → fruto,Donna,leaf_nut_Mg_May,Tot anth,16,0.19999999999999998,0.45768790507519974,0.9472479096766562
+Nutrición hoja → fruto,Donna,leaf_nut_Mg_May,Vit C,16,0.42678451583631366,0.09922332767953337,0.7983788755376617
+Nutrición hoja → fruto,Donna,leaf_nut_P_March,yield_Com Ton/ha,16,0.25,0.3503914791072017,0.9110178456787243
+Nutrición hoja → fruto,Donna,leaf_nut_P_March,yield_No com Ton/ha,16,-0.2588235294117647,0.3330723066336081,0.9110178456787243
+Nutrición hoja → fruto,Donna,leaf_nut_P_March,yield_g/planta,16,0.2323529411764706,0.38651134990798475,0.9414431595992102
+Nutrición hoja → fruto,Donna,leaf_nut_P_March,fruit_Weight,16,-0.11470588235294117,0.6722910465997229,0.9768083992475839
+Nutrición hoja → fruto,Donna,leaf_nut_P_March,fruit_Hydrat,16,0.13539370847220983,0.6171060124884011,0.9768083992475839
+Nutrición hoja → fruto,Donna,leaf_nut_P_March,fruit_Firm,16,-0.0530192033021272,0.8453854450788838,0.9768083992475839
+Nutrición hoja → fruto,Donna,leaf_nut_P_March,fruit_Hue,16,-0.4852941176470588,0.05671771428191194,0.7983788755376617
+Nutrición hoja → fruto,Donna,leaf_nut_P_March,fruit_Chroma,16,-0.44117647058823534,0.08715363626051081,0.7983788755376617
+Nutrición hoja → fruto,Donna,leaf_nut_P_March,fruit_BRIX,16,-0.3343155319328576,0.20566080793022962,0.8387734911664267
+Nutrición hoja → fruto,Donna,leaf_nut_P_March,fruit_Acidity,16,-0.4970501217477084,0.05013820739615182,0.7983788755376617
+Nutrición hoja → fruto,Donna,leaf_nut_P_March,Total polyphenols,16,0.19117647058823528,0.47816401281702825,0.9472479096766562
+Nutrición hoja → fruto,Donna,leaf_nut_P_March,Tot anth,16,0.38823529411764707,0.13728162367278124,0.8120330248256853
+Nutrición hoja → fruto,Donna,leaf_nut_P_March,Vit C,16,0.06328184200331548,0.8158960436310546,0.9768083992475839
+Nutrición hoja → fruto,Donna,leaf_nut_P_May,yield_Com Ton/ha,16,-0.4176470588235294,0.1074740793993006,0.7983788755376617
+Nutrición hoja → fruto,Donna,leaf_nut_P_May,yield_No com Ton/ha,16,-0.2088235294117647,0.43765851094980035,0.9472479096766562
+Nutrición hoja → fruto,Donna,leaf_nut_P_May,yield_g/planta,16,-0.3941176470588235,0.13091285429899105,0.8120330248256853
+Nutrición hoja → fruto,Donna,leaf_nut_P_May,fruit_Weight,16,0.0411764705882353,0.8796536149318311,0.9768083992475839
+Nutrición hoja → fruto,Donna,leaf_nut_P_May,fruit_Hydrat,16,-0.32229589299362993,0.2234424671440314,0.8450187848356097
+Nutrición hoja → fruto,Donna,leaf_nut_P_May,fruit_Firm,16,-0.19293098979385173,0.4740574077232793,0.9472479096766562
+Nutrición hoja → fruto,Donna,leaf_nut_P_May,fruit_Hue,16,0.0029411764705882353,0.9913748045563624,0.9913748045563624
+Nutrición hoja → fruto,Donna,leaf_nut_P_May,fruit_Chroma,16,0.032352941176470584,0.9053195187918449,0.9768083992475839
+Nutrición hoja → fruto,Donna,leaf_nut_P_May,fruit_BRIX,16,0.022091334709219666,0.9352777599534965,0.9768083992475839
+Nutrición hoja → fruto,Donna,leaf_nut_P_May,fruit_Acidity,16,0.1627247422388331,0.5470841368437885,0.974030131565774
+Nutrición hoja → fruto,Donna,leaf_nut_P_May,Total polyphenols,16,-0.02058823529411765,0.9396737397890448,0.9768083992475839
+Nutrición hoja → fruto,Donna,leaf_nut_P_May,Tot anth,16,-0.19117647058823528,0.47816401281702825,0.9472479096766562
+Nutrición hoja → fruto,Donna,leaf_nut_P_May,Vit C,16,-0.04120678083936821,0.8795656276665221,0.9768083992475839
+Nutrición hoja → fruto,Donna,leaf_no3_mg NO3-/ 100 mg DW_March,yield_Com Ton/ha,16,-0.06176470588235294,0.8202418775044894,0.9768083992475839
+Nutrición hoja → fruto,Donna,leaf_no3_mg NO3-/ 100 mg DW_March,yield_No com Ton/ha,16,-0.07941176470588236,0.770025319039825,0.9768083992475839
+Nutrición hoja → fruto,Donna,leaf_no3_mg NO3-/ 100 mg DW_March,yield_g/planta,16,-0.044117647058823525,0.8711220048065985,0.9768083992475839
+Nutrición hoja → fruto,Donna,leaf_no3_mg NO3-/ 100 mg DW_March,fruit_Weight,16,0.02941176470588235,0.9138955872505001,0.9768083992475839
+Nutrición hoja → fruto,Donna,leaf_no3_mg NO3-/ 100 mg DW_March,fruit_Hydrat,16,-0.1192053302853152,0.6601425799266656,0.9768083992475839
+Nutrición hoja → fruto,Donna,leaf_no3_mg NO3-/ 100 mg DW_March,fruit_Firm,16,-0.2002947680302583,0.45701150591823025,0.9472479096766562
+Nutrición hoja → fruto,Donna,leaf_no3_mg NO3-/ 100 mg DW_March,fruit_Hue,16,0.12352941176470587,0.6485420669723405,0.9768083992475839
+Nutrición hoja → fruto,Donna,leaf_no3_mg NO3-/ 100 mg DW_March,fruit_Chroma,16,0.4382352941176471,0.08953003199187995,0.7983788755376617
+Nutrición hoja → fruto,Donna,leaf_no3_mg NO3-/ 100 mg DW_March,fruit_BRIX,16,-0.39322575782411007,0.1318651600010856,0.8120330248256853
+Nutrición hoja → fruto,Donna,leaf_no3_mg NO3-/ 100 mg DW_March,fruit_Acidity,16,-0.1819558481397861,0.500025945408034,0.9472479096766562
+Nutrición hoja → fruto,Donna,leaf_no3_mg NO3-/ 100 mg DW_March,Total polyphenols,16,-0.17352941176470588,0.5204075144487408,0.9579182566844079
+Nutrición hoja → fruto,Donna,leaf_no3_mg NO3-/ 100 mg DW_March,Tot anth,16,0.008823529411764706,0.9741279946623942,0.9913748045563624
+Nutrición hoja → fruto,Donna,leaf_no3_mg NO3-/ 100 mg DW_March,Vit C,16,-0.23105230684931463,0.3892505371419811,0.9414431595992102
+Nutrición hoja → fruto,Donna,leaf_no3_mg NO3-/ 100 mg DW_May,yield_Com Ton/ha,16,0.21764705882352942,0.41808684161130294,0.9472479096766562
+Nutrición hoja → fruto,Donna,leaf_no3_mg NO3-/ 100 mg DW_May,yield_No com Ton/ha,16,0.2911764705882353,0.27388704841914874,0.876438554941276
+Nutrición hoja → fruto,Donna,leaf_no3_mg NO3-/ 100 mg DW_May,yield_g/planta,16,0.18823529411764706,0.4850866091454682,0.9472479096766562
+Nutrición hoja → fruto,Donna,leaf_no3_mg NO3-/ 100 mg DW_May,fruit_Weight,16,0.35000000000000003,0.18386882202619317,0.8137173400308123
+Nutrición hoja → fruto,Donna,leaf_no3_mg NO3-/ 100 mg DW_May,fruit_Hydrat,16,0.23546731908210405,0.37999498730194725,0.9414431595992102
+Nutrición hoja → fruto,Donna,leaf_no3_mg NO3-/ 100 mg DW_May,fruit_Firm,16,-0.33137002063829496,0.20993111672254267,0.8397244668901707
+Nutrición hoja → fruto,Donna,leaf_no3_mg NO3-/ 100 mg DW_May,fruit_Hue,16,-0.0411764705882353,0.8796536149318311,0.9768083992475839
+Nutrición hoja → fruto,Donna,leaf_no3_mg NO3-/ 100 mg DW_May,fruit_Chroma,16,-0.0823529411764706,0.761733078752474,0.9768083992475839
+Nutrición hoja → fruto,Donna,leaf_no3_mg NO3-/ 100 mg DW_May,fruit_BRIX,16,-0.12076596307706751,0.6559472229405936,0.9768083992475839
+Nutrición hoja → fruto,Donna,leaf_no3_mg NO3-/ 100 mg DW_May,fruit_Acidity,16,-0.12278321459839225,0.650538630619875,0.9768083992475839
+Nutrición hoja → fruto,Donna,leaf_no3_mg NO3-/ 100 mg DW_May,Total polyphenols,16,-0.03823529411764706,0.8881976539853073,0.9768083992475839
+Nutrición hoja → fruto,Donna,leaf_no3_mg NO3-/ 100 mg DW_May,Tot anth,16,0.6235294117647059,0.009855650390922007,0.6833250937705925
+Nutrición hoja → fruto,Donna,leaf_no3_mg NO3-/ 100 mg DW_May,Vit C,16,0.10154528135415737,0.7082538611924278,0.9768083992475839
+Nutrición hoja → fruto,Donna,leaf_no3_mg NO3-/ g DW_March,yield_Com Ton/ha,16,-0.0029411764705882353,0.9913748045563624,0.9913748045563624
+Nutrición hoja → fruto,Donna,leaf_no3_mg NO3-/ g DW_March,yield_No com Ton/ha,16,-0.2441176470588235,0.3622134961419501,0.9301284839200693
+Nutrición hoja → fruto,Donna,leaf_no3_mg NO3-/ g DW_March,yield_g/planta,16,-0.011764705882352941,0.9655081698956276,0.9892891593019238
+Nutrición hoja → fruto,Donna,leaf_no3_mg NO3-/ g DW_March,fruit_Weight,16,0.18235294117647058,0.49907485724580014,0.9472479096766562
+Nutrición hoja → fruto,Donna,leaf_no3_mg NO3-/ g DW_March,fruit_Hydrat,16,-0.15011041591484137,0.5789661794244588,0.9768083992475839
+Nutrición hoja → fruto,Donna,leaf_no3_mg NO3-/ g DW_March,fruit_Firm,16,-0.11045667354609832,0.6838341342569624,0.9768083992475839
+Nutrición hoja → fruto,Donna,leaf_no3_mg NO3-/ g DW_March,fruit_Hue,16,-0.06764705882352941,0.8034203137966691,0.9768083992475839
+Nutrición hoja → fruto,Donna,leaf_no3_mg NO3-/ g DW_March,fruit_Chroma,16,0.29705882352941176,0.2638630146135225,0.8711667784065505
+Nutrición hoja → fruto,Donna,leaf_no3_mg NO3-/ g DW_March,fruit_BRIX,16,-0.14580280908084978,0.5900276111132021,0.9768083992475839
+Nutrición hoja → fruto,Donna,leaf_no3_mg NO3-/ g DW_March,fruit_Acidity,16,-0.221897375780227,0.40882546486336535,0.9472479096766562
+Nutrición hoja → fruto,Donna,leaf_no3_mg NO3-/ g DW_March,Total polyphenols,16,-0.07941176470588236,0.770025319039825,0.9768083992475839
+Nutrición hoja → fruto,Donna,leaf_no3_mg NO3-/ g DW_March,Tot anth,16,0.1264705882352941,0.6406944408168835,0.9768083992475839
+Nutrición hoja → fruto,Donna,leaf_no3_mg NO3-/ g DW_March,Vit C,16,-0.09565859837710479,0.7245341106311589,0.9768083992475839
+Nutrición hoja → fruto,Donna,leaf_no3_mg NO3-/ g DW_May,yield_Com Ton/ha,16,0.1264705882352941,0.6406944408168835,0.9768083992475839
+Nutrición hoja → fruto,Donna,leaf_no3_mg NO3-/ g DW_May,yield_No com Ton/ha,16,0.3411764705882353,0.1959326248678891,0.8322727245193487
+Nutrición hoja → fruto,Donna,leaf_no3_mg NO3-/ g DW_May,yield_g/planta,16,0.09705882352941177,0.7206513082372035,0.9768083992475839
+Nutrición hoja → fruto,Donna,leaf_no3_mg NO3-/ g DW_May,fruit_Weight,16,0.36764705882352944,0.1612323576755899,0.8137173400308123
+Nutrición hoja → fruto,Donna,leaf_no3_mg NO3-/ g DW_May,fruit_Hydrat,16,0.20014722121978848,0.4573500167042257,0.9472479096766562
+Nutrición hoja → fruto,Donna,leaf_no3_mg NO3-/ g DW_May,fruit_Firm,16,-0.3092786859290753,0.24376784065329982,0.8568473928745831
+Nutrición hoja → fruto,Donna,leaf_no3_mg NO3-/ g DW_May,fruit_Hue,16,-0.02941176470588235,0.9138955872505001,0.9768083992475839
+Nutrición hoja → fruto,Donna,leaf_no3_mg NO3-/ g DW_May,fruit_Chroma,16,-0.09999999999999999,0.7125163701282782,0.9768083992475839
+Nutrición hoja → fruto,Donna,leaf_no3_mg NO3-/ g DW_May,fruit_BRIX,16,-0.17967618896831994,0.5055024902601386,0.9472479096766562
+Nutrición hoja → fruto,Donna,leaf_no3_mg NO3-/ g DW_May,fruit_Acidity,16,-0.09763484534329987,0.7190558582737743,0.9768083992475839
+Nutrición hoja → fruto,Donna,leaf_no3_mg NO3-/ g DW_May,Total polyphenols,16,-0.03529411764705882,0.8967532476935333,0.9768083992475839
+Nutrición hoja → fruto,Donna,leaf_no3_mg NO3-/ g DW_May,Tot anth,16,0.6705882352941177,0.004467208697738123,0.6833250937705925
+Nutrición hoja → fruto,Donna,leaf_no3_mg NO3-/ g DW_May,Vit C,16,0.055923488281999716,0.8370188319791677,0.9768083992475839
+Nutrición hoja → fruto,Dream,leaf_iso_%N_March,yield_Com Ton/ha,16,0.4382352941176471,0.08953003199187995,0.8719446593991786
+Nutrición hoja → fruto,Dream,leaf_iso_%N_March,yield_No com Ton/ha,16,-0.049999999999999996,0.8540995521297436,0.9611083885926031
+Nutrición hoja → fruto,Dream,leaf_iso_%N_March,yield_Nº de plantes,16,-0.29334351904902767,0.27016770916444505,0.9611083885926031
+Nutrición hoja → fruto,Dream,leaf_iso_%N_March,yield_g/planta,16,0.5,0.04858028888702393,0.6821541250148496
+Nutrición hoja → fruto,Dream,leaf_iso_%N_March,fruit_Weight,16,0.2943341488526301,0.2684777709386866,0.9611083885926031
+Nutrición hoja → fruto,Dream,leaf_iso_%N_March,fruit_Hydrat,16,-0.18823529411764706,0.4850866091454682,0.9611083885926031
+Nutrición hoja → fruto,Dream,leaf_iso_%N_March,fruit_Firm,16,-0.05449195894940851,0.8411407653580093,0.9611083885926031
+Nutrición hoja → fruto,Dream,leaf_iso_%N_March,fruit_Hue,15,-0.3214285714285714,0.2427190468016684,0.9611083885926031
+Nutrición hoja → fruto,Dream,leaf_iso_%N_March,fruit_Chroma,15,-0.23571428571428568,0.39770294590327293,0.9611083885926031
+Nutrición hoja → fruto,Dream,leaf_iso_%N_March,fruit_BRIX,16,-0.21944059144491537,0.41416546121832665,0.9611083885926031
+Nutrición hoja → fruto,Dream,leaf_iso_%N_March,fruit_Acidity,16,0.15033198122497127,0.5783995740437339,0.9611083885926031
+Nutrición hoja → fruto,Dream,leaf_iso_%N_March,Total polyphenols,16,-0.5235294117647059,0.03741264813014936,0.6821541250148496
+Nutrición hoja → fruto,Dream,leaf_iso_%N_March,Tot anth,13,-0.06043956043956044,0.8445023706449684,0.9611083885926031
+Nutrición hoja → fruto,Dream,leaf_iso_%N_March,Vit C,16,-0.10882352941176471,0.688288293957414,0.9611083885926031
+Nutrición hoja → fruto,Dream,leaf_iso_%N_May,yield_Com Ton/ha,16,0.27058823529411763,0.31076062710233504,0.9611083885926031
+Nutrición hoja → fruto,Dream,leaf_iso_%N_May,yield_No com Ton/ha,16,-0.07941176470588236,0.770025319039825,0.9611083885926031
+Nutrición hoja → fruto,Dream,leaf_iso_%N_May,yield_Nº de plantes,16,0.3361227822436775,0.20306865750942021,0.9611083885926031
+Nutrición hoja → fruto,Dream,leaf_iso_%N_May,yield_g/planta,16,0.10882352941176471,0.688288293957414,0.9611083885926031
+Nutrición hoja → fruto,Dream,leaf_iso_%N_May,fruit_Weight,16,-0.19131719675420958,0.47783399548569916,0.9611083885926031
+Nutrición hoja → fruto,Dream,leaf_iso_%N_May,fruit_Hydrat,16,0.0,1.0,1.0
+Nutrición hoja → fruto,Dream,leaf_iso_%N_May,fruit_Firm,16,0.023564090356500974,0.9309722224866372,0.9790089195941676
+Nutrición hoja → fruto,Dream,leaf_iso_%N_May,fruit_Hue,15,0.5392857142857141,0.03802165626355798,0.6821541250148496
+Nutrición hoja → fruto,Dream,leaf_iso_%N_May,fruit_Chroma,15,0.1857142857142857,0.5075409629336737,0.9611083885926031
+Nutrición hoja → fruto,Dream,leaf_iso_%N_May,fruit_BRIX,16,-0.4123715812387671,0.11245115836738827,0.9252283130260174
+Nutrición hoja → fruto,Dream,leaf_iso_%N_May,fruit_Acidity,16,0.09874747786346152,0.7159772001167831,0.9611083885926031
+Nutrición hoja → fruto,Dream,leaf_iso_%N_May,Total polyphenols,16,0.06176470588235294,0.8202418775044894,0.9611083885926031
+Nutrición hoja → fruto,Dream,leaf_iso_%N_May,Tot anth,13,0.15934065934065936,0.6030877531318972,0.9611083885926031
+Nutrición hoja → fruto,Dream,leaf_iso_%N_May,Vit C,16,0.10294117647058824,0.7044103818167706,0.9611083885926031
+Nutrición hoja → fruto,Dream,leaf_iso_d13C_March,yield_Com Ton/ha,16,0.14411764705882352,0.5943782881736932,0.9611083885926031
+Nutrición hoja → fruto,Dream,leaf_iso_d13C_March,yield_No com Ton/ha,16,-0.13529411764705881,0.6173674089706418,0.9611083885926031
+Nutrición hoja → fruto,Dream,leaf_iso_d13C_March,yield_Nº de plantes,16,-0.4002916770356522,0.12445018167515239,0.9252283130260174
+Nutrición hoja → fruto,Dream,leaf_iso_d13C_March,yield_g/planta,16,0.25,0.3503914791072017,0.9611083885926031
+Nutrición hoja → fruto,Dream,leaf_iso_d13C_March,fruit_Weight,16,0.11479031805252575,0.6720623587293355,0.9611083885926031
+Nutrición hoja → fruto,Dream,leaf_iso_d13C_March,fruit_Hydrat,16,-0.4647058823529412,0.06974367557375584,0.7568989812136895
+Nutrición hoja → fruto,Dream,leaf_iso_d13C_March,fruit_Firm,16,-0.11782045178250487,0.6638734355469889,0.9611083885926031
+Nutrición hoja → fruto,Dream,leaf_iso_d13C_March,fruit_Hue,15,0.075,0.7905107941552678,0.9611083885926031
+Nutrición hoja → fruto,Dream,leaf_iso_d13C_March,fruit_Chroma,15,-0.32499999999999996,0.23722543823723408,0.9611083885926031
+Nutrición hoja → fruto,Dream,leaf_iso_d13C_March,fruit_BRIX,16,-0.13549351954988062,0.6168440811336604,0.9611083885926031
+Nutrición hoja → fruto,Dream,leaf_iso_d13C_March,fruit_Acidity,16,-0.0014738429531859925,0.9956778016013029,1.0
+Nutrición hoja → fruto,Dream,leaf_iso_d13C_March,Total polyphenols,16,-0.25588235294117645,0.33878990807124576,0.9611083885926031
+Nutrición hoja → fruto,Dream,leaf_iso_d13C_March,Tot anth,13,-0.24725274725274726,0.4154051197255382,0.9611083885926031
+Nutrición hoja → fruto,Dream,leaf_iso_d13C_March,Vit C,16,-0.19411764705882353,0.47128972836210736,0.9611083885926031
+Nutrición hoja → fruto,Dream,leaf_iso_d13C_May,yield_Com Ton/ha,16,-0.13529411764705881,0.6173674089706418,0.9611083885926031
+Nutrición hoja → fruto,Dream,leaf_iso_d13C_May,yield_No com Ton/ha,16,0.15,0.5792486306642535,0.9611083885926031
+Nutrición hoja → fruto,Dream,leaf_iso_d13C_May,yield_Nº de plantes,16,-0.6233549779791836,0.009882349510463965,0.5534115725859821
+Nutrición hoja → fruto,Dream,leaf_iso_d13C_May,yield_g/planta,16,0.13823529411764704,0.6096659407501825,0.9611083885926031
+Nutrición hoja → fruto,Dream,leaf_iso_d13C_May,fruit_Weight,16,0.1339220377279467,0.6209730849270084,0.9611083885926031
+Nutrición hoja → fruto,Dream,leaf_iso_d13C_May,fruit_Hydrat,16,0.36470588235294116,0.16486839724475405,0.9611083885926031
+Nutrición hoja → fruto,Dream,leaf_iso_d13C_May,fruit_Firm,16,-0.1060384066042544,0.6959064364583474,0.9611083885926031
+Nutrición hoja → fruto,Dream,leaf_iso_d13C_May,fruit_Hue,15,0.03214285714285714,0.9094621170945906,0.9790089195941676
+Nutrición hoja → fruto,Dream,leaf_iso_d13C_May,fruit_Chroma,15,-0.28571428571428564,0.3019363513225493,0.9611083885926031
+Nutrición hoja → fruto,Dream,leaf_iso_d13C_May,fruit_BRIX,16,0.057437470243971125,0.8326638072016174,0.9611083885926031
+Nutrición hoja → fruto,Dream,leaf_iso_d13C_May,fruit_Acidity,16,-0.05895371812743971,0.8283068318810631,0.9611083885926031
+Nutrición hoja → fruto,Dream,leaf_iso_d13C_May,Total polyphenols,16,-0.0029411764705882353,0.9913748045563624,1.0
+Nutrición hoja → fruto,Dream,leaf_iso_d13C_May,Tot anth,13,0.23076923076923078,0.44812738231536575,0.9611083885926031
+Nutrición hoja → fruto,Dream,leaf_iso_d13C_May,Vit C,16,0.24705882352941175,0.35627504151257705,0.9611083885926031
+Nutrición hoja → fruto,Dream,leaf_nut_Ca_March,yield_Com Ton/ha,16,0.1176470588235294,0.6643410791623536,0.9611083885926031
+Nutrición hoja → fruto,Dream,leaf_nut_Ca_March,yield_No com Ton/ha,16,-0.12058823529411765,0.6564245147485952,0.9611083885926031
+Nutrición hoja → fruto,Dream,leaf_nut_Ca_March,yield_Nº de plantes,16,0.08555852638929973,0.7527229984838187,0.9611083885926031
+Nutrición hoja → fruto,Dream,leaf_nut_Ca_March,yield_g/planta,16,0.047058823529411764,0.8626036946668731,0.9611083885926031
+Nutrición hoja → fruto,Dream,leaf_nut_Ca_March,fruit_Weight,16,-0.2413540020591567,0.3678433140832261,0.9611083885926031
+Nutrición hoja → fruto,Dream,leaf_nut_Ca_March,fruit_Hydrat,16,-0.2029411764705882,0.45096124172270946,0.9611083885926031
+Nutrición hoja → fruto,Dream,leaf_nut_Ca_March,fruit_Firm,16,0.06774675977494031,0.8031358772919064,0.9611083885926031
+Nutrición hoja → fruto,Dream,leaf_nut_Ca_March,fruit_Hue,15,0.28928571428571426,0.29566536100437785,0.9611083885926031
+Nutrición hoja → fruto,Dream,leaf_nut_Ca_March,fruit_Chroma,15,0.13928571428571426,0.6205460876279014,0.9611083885926031
+Nutrición hoja → fruto,Dream,leaf_nut_Ca_March,fruit_BRIX,16,-0.07069227106950293,0.7947432267255311,0.9611083885926031
+Nutrición hoja → fruto,Dream,leaf_nut_Ca_March,fruit_Acidity,16,-0.23728871546294483,0.3762119753398503,0.9611083885926031
+Nutrición hoja → fruto,Dream,leaf_nut_Ca_March,Total polyphenols,16,0.15,0.5792486306642535,0.9611083885926031
+Nutrición hoja → fruto,Dream,leaf_nut_Ca_March,Tot anth,13,-0.049450549450549455,0.8725444288811492,0.9611083885926031
+Nutrición hoja → fruto,Dream,leaf_nut_Ca_March,Vit C,16,-0.16176470588235295,0.5494831434036929,0.9611083885926031
+Nutrición hoja → fruto,Dream,leaf_nut_Ca_May,yield_Com Ton/ha,16,0.19411764705882353,0.47128972836210736,0.9611083885926031
+Nutrición hoja → fruto,Dream,leaf_nut_Ca_May,yield_No com Ton/ha,16,-0.3941176470588235,0.13091285429899105,0.9252283130260174
+Nutrición hoja → fruto,Dream,leaf_nut_Ca_May,yield_Nº de plantes,16,0.20625716183134754,0.4434374255777874,0.9611083885926031
+Nutrición hoja → fruto,Dream,leaf_nut_Ca_May,yield_g/planta,16,-0.02647058823529412,0.9224805705017287,0.9790089195941676
+Nutrición hoja → fruto,Dream,leaf_nut_Ca_May,fruit_Weight,16,0.29286247810836696,0.27099065824003654,0.9611083885926031
+Nutrición hoja → fruto,Dream,leaf_nut_Ca_May,fruit_Hydrat,16,-0.06470588235294117,0.8118214513105935,0.9611083885926031
+Nutrición hoja → fruto,Dream,leaf_nut_Ca_May,fruit_Firm,16,-0.3122241972236379,0.23907113358345214,0.9611083885926031
+Nutrición hoja → fruto,Dream,leaf_nut_Ca_May,fruit_Hue,15,-0.5285714285714286,0.04279728930945035,0.6821541250148496
+Nutrición hoja → fruto,Dream,leaf_nut_Ca_May,fruit_Chroma,15,-0.4464285714285714,0.09529321315352625,0.889403322766245
+Nutrición hoja → fruto,Dream,leaf_nut_Ca_May,fruit_BRIX,16,-0.25625948262694814,0.33805366661517655,0.9611083885926031
+Nutrición hoja → fruto,Dream,leaf_nut_Ca_May,fruit_Acidity,16,0.1577011959909012,0.5596879777607184,0.9611083885926031
+Nutrición hoja → fruto,Dream,leaf_nut_Ca_May,Total polyphenols,16,-0.2911764705882353,0.27388704841914874,0.9611083885926031
+Nutrición hoja → fruto,Dream,leaf_nut_Ca_May,Tot anth,13,-0.26373626373626374,0.3839365166506742,0.9611083885926031
+Nutrición hoja → fruto,Dream,leaf_nut_Ca_May,Vit C,16,-0.05294117647058824,0.8456104411493659,0.9611083885926031
+Nutrición hoja → fruto,Dream,leaf_nut_Fe_March,yield_Com Ton/ha,16,-0.22058823529411767,0.4116664304979635,0.9611083885926031
+Nutrición hoja → fruto,Dream,leaf_nut_Fe_March,yield_No com Ton/ha,16,0.023529411764705882,0.931073583667659,0.9790089195941676
+Nutrición hoja → fruto,Dream,leaf_nut_Fe_March,yield_Nº de plantes,16,-0.15431091366641558,0.5682640012085542,0.9611083885926031
+Nutrición hoja → fruto,Dream,leaf_nut_Fe_March,yield_g/planta,16,-0.047058823529411764,0.8626036946668731,0.9611083885926031
+Nutrición hoja → fruto,Dream,leaf_nut_Fe_March,fruit_Weight,16,0.042678451583631365,0.8752951396111206,0.9611083885926031
+Nutrición hoja → fruto,Dream,leaf_nut_Fe_March,fruit_Hydrat,16,0.1264705882352941,0.6406944408168835,0.9611083885926031
+Nutrición hoja → fruto,Dream,leaf_nut_Fe_March,fruit_Firm,16,0.1192932074297862,0.6599060912773975,0.9611083885926031
+Nutrición hoja → fruto,Dream,leaf_nut_Fe_March,fruit_Hue,15,0.2785714285714285,0.3147094732307908,0.9611083885926031
+Nutrición hoja → fruto,Dream,leaf_nut_Fe_March,fruit_Chroma,15,0.13928571428571426,0.6205460876279014,0.9611083885926031
+Nutrición hoja → fruto,Dream,leaf_nut_Fe_March,fruit_BRIX,16,0.004418266941843933,0.9870434202852527,1.0
+Nutrición hoja → fruto,Dream,leaf_nut_Fe_March,fruit_Acidity,16,-0.48489433159819156,0.05695212298816013,0.708737530519326
+Nutrición hoja → fruto,Dream,leaf_nut_Fe_March,Total polyphenols,16,-0.07941176470588236,0.770025319039825,0.9611083885926031
+Nutrición hoja → fruto,Dream,leaf_nut_Fe_March,Tot anth,13,0.34065934065934067,0.2547064607541251,0.9611083885926031
+Nutrición hoja → fruto,Dream,leaf_nut_Fe_March,Vit C,16,-0.16176470588235295,0.5494831434036929,0.9611083885926031
+Nutrición hoja → fruto,Dream,leaf_nut_Fe_May,yield_Com Ton/ha,16,0.1411764705882353,0.602002683881979,0.9611083885926031
+Nutrición hoja → fruto,Dream,leaf_nut_Fe_May,yield_No com Ton/ha,16,-0.3,0.25893645256249886,0.9611083885926031
+Nutrición hoja → fruto,Dream,leaf_nut_Fe_May,yield_Nº de plantes,16,0.12222646627042817,0.6520297484062758,0.9611083885926031
+Nutrición hoja → fruto,Dream,leaf_nut_Fe_May,yield_g/planta,16,0.011764705882352941,0.9655081698956276,0.9963683598373347
+Nutrición hoja → fruto,Dream,leaf_nut_Fe_May,fruit_Weight,16,0.5018397237937344,0.047627104205843124,0.6821541250148496
+Nutrición hoja → fruto,Dream,leaf_nut_Fe_May,fruit_Hydrat,16,-0.12941176470588234,0.63288233246826,0.9611083885926031
+Nutrición hoja → fruto,Dream,leaf_nut_Fe_May,fruit_Firm,16,0.058910225891252437,0.8284317431419784,0.9611083885926031
+Nutrición hoja → fruto,Dream,leaf_nut_Fe_May,fruit_Hue,15,-0.6642857142857141,0.006910682984519185,0.5534115725859821
+Nutrición hoja → fruto,Dream,leaf_nut_Fe_May,fruit_Chroma,15,-0.28928571428571426,0.29566536100437785,0.9611083885926031
+Nutrición hoja → fruto,Dream,leaf_nut_Fe_May,fruit_BRIX,16,0.17673067767375733,0.512619907061405,0.9611083885926031
+Nutrición hoja → fruto,Dream,leaf_nut_Fe_May,fruit_Acidity,16,0.21370722821196894,0.426768643100658,0.9611083885926031
+Nutrición hoja → fruto,Dream,leaf_nut_Fe_May,Total polyphenols,16,-0.06764705882352941,0.8034203137966691,0.9611083885926031
+Nutrición hoja → fruto,Dream,leaf_nut_Fe_May,Tot anth,13,-0.24725274725274726,0.4154051197255382,0.9611083885926031
+Nutrición hoja → fruto,Dream,leaf_nut_Fe_May,Vit C,16,-0.12352941176470587,0.6485420669723405,0.9611083885926031
+Nutrición hoja → fruto,Dream,leaf_nut_Mg_March,yield_Com Ton/ha,16,0.4264705882352941,0.09949911193753967,0.8915120429603555
+Nutrición hoja → fruto,Dream,leaf_nut_Mg_March,yield_No com Ton/ha,16,-0.13823529411764704,0.6096659407501825,0.9611083885926031
+Nutrición hoja → fruto,Dream,leaf_nut_Mg_March,yield_Nº de plantes,16,-0.1665335602934584,0.5376120624203474,0.9611083885926031
+Nutrición hoja → fruto,Dream,leaf_nut_Mg_March,yield_g/planta,16,0.44705882352941173,0.0825369233953715,0.840375947298328
+Nutrición hoja → fruto,Dream,leaf_nut_Mg_March,fruit_Weight,16,0.09565859837710479,0.7245341106311589,0.9611083885926031
+Nutrición hoja → fruto,Dream,leaf_nut_Mg_March,fruit_Hydrat,16,-0.6470588235294118,0.006742077007179868,0.5534115725859821
+Nutrición hoja → fruto,Dream,leaf_nut_Mg_March,fruit_Firm,16,0.2002947680302583,0.45701150591823025,0.9611083885926031
+Nutrición hoja → fruto,Dream,leaf_nut_Mg_March,fruit_Hue,15,-0.07142857142857141,0.8002959873970544,0.9611083885926031
+Nutrición hoja → fruto,Dream,leaf_nut_Mg_March,fruit_Chroma,15,-0.11071428571428568,0.6944626472070963,0.9611083885926031
+Nutrición hoja → fruto,Dream,leaf_nut_Mg_March,fruit_BRIX,16,-0.17378516637919467,0.5197833660664728,0.9611083885926031
+Nutrición hoja → fruto,Dream,leaf_nut_Mg_March,fruit_Acidity,16,-0.03389838792327783,0.900817078070583,0.9790089195941676
+Nutrición hoja → fruto,Dream,leaf_nut_Mg_March,Total polyphenols,16,-0.4705882352941176,0.06581947250108118,0.7568989812136895
+Nutrición hoja → fruto,Dream,leaf_nut_Mg_March,Tot anth,13,-0.2857142857142857,0.34400021825867,0.9611083885926031
+Nutrición hoja → fruto,Dream,leaf_nut_Mg_March,Vit C,16,-0.36470588235294116,0.16486839724475405,0.9611083885926031
+Nutrición hoja → fruto,Dream,leaf_nut_Mg_May,yield_Com Ton/ha,16,0.0588235294117647,0.8286807500332258,0.9611083885926031
+Nutrición hoja → fruto,Dream,leaf_nut_Mg_May,yield_No com Ton/ha,16,-0.02941176470588235,0.9138955872505001,0.9790089195941676
+Nutrición hoja → fruto,Dream,leaf_nut_Mg_May,yield_Nº de plantes,16,0.4629327409992467,0.07095927948878339,0.7568989812136895
+Nutrición hoja → fruto,Dream,leaf_nut_Mg_May,yield_g/planta,16,-0.18529411764705883,0.4920570502059438,0.9611083885926031
+Nutrición hoja → fruto,Dream,leaf_nut_Mg_May,fruit_Weight,16,0.047093463816420815,0.8625034513002978,0.9611083885926031
+Nutrición hoja → fruto,Dream,leaf_nut_Mg_May,fruit_Hydrat,16,0.0823529411764706,0.761733078752474,0.9611083885926031
+Nutrición hoja → fruto,Dream,leaf_nut_Mg_May,fruit_Firm,16,-0.3814437126458595,0.1448947365184261,0.954600617062572
+Nutrición hoja → fruto,Dream,leaf_nut_Mg_May,fruit_Hue,15,-0.16785714285714282,0.5498555542278019,0.9611083885926031
+Nutrición hoja → fruto,Dream,leaf_nut_Mg_May,fruit_Chroma,15,-0.09285714285714285,0.742045009907367,0.9611083885926031
+Nutrición hoja → fruto,Dream,leaf_nut_Mg_May,fruit_BRIX,16,-0.2960238851035435,0.26561012179610544,0.9611083885926031
+Nutrición hoja → fruto,Dream,leaf_nut_Mg_May,fruit_Acidity,16,0.22697181479064288,0.39791194687222486,0.9611083885926031
+Nutrición hoja → fruto,Dream,leaf_nut_Mg_May,Total polyphenols,16,0.31764705882352945,0.23057346362184541,0.9611083885926031
+Nutrición hoja → fruto,Dream,leaf_nut_Mg_May,Tot anth,13,-0.07142857142857142,0.8166280406760861,0.9611083885926031
+Nutrición hoja → fruto,Dream,leaf_nut_Mg_May,Vit C,16,-0.02647058823529412,0.9224805705017287,0.9790089195941676
+Nutrición hoja → fruto,Dream,leaf_nut_P_March,yield_Com Ton/ha,16,0.5676470588235295,0.02181459214374292,0.6821541250148496
+Nutrición hoja → fruto,Dream,leaf_nut_P_March,yield_No com Ton/ha,16,-0.07352941176470588,0.7866792491258565,0.9611083885926031
+Nutrición hoja → fruto,Dream,leaf_nut_P_March,yield_Nº de plantes,16,0.403347338692413,0.12133481658963503,0.9252283130260174
+Nutrición hoja → fruto,Dream,leaf_nut_P_March,yield_g/planta,16,0.1764705882352941,0.5132505967364669,0.9611083885926031
+Nutrición hoja → fruto,Dream,leaf_nut_P_March,fruit_Weight,16,0.09565859837710479,0.7245341106311589,0.9611083885926031
+Nutrición hoja → fruto,Dream,leaf_nut_P_March,fruit_Hydrat,16,0.22647058823529412,0.3989829266412891,0.9611083885926031
+Nutrición hoja → fruto,Dream,leaf_nut_P_March,fruit_Firm,16,-0.4020622917077979,0.12263830325172054,0.9252283130260174
+Nutrición hoja → fruto,Dream,leaf_nut_P_March,fruit_Hue,15,-0.23571428571428568,0.39770294590327293,0.9611083885926031
+Nutrición hoja → fruto,Dream,leaf_nut_P_March,fruit_Chroma,15,0.20357142857142854,0.46679507248911234,0.9611083885926031
+Nutrición hoja → fruto,Dream,leaf_nut_P_March,fruit_BRIX,16,-0.1472755647281311,0.586236027615523,0.9611083885926031
+Nutrición hoja → fruto,Dream,leaf_nut_P_March,fruit_Acidity,16,0.6411216846359069,0.00744112251435601,0.5534115725859821
+Nutrición hoja → fruto,Dream,leaf_nut_P_March,Total polyphenols,16,0.06764705882352941,0.8034203137966691,0.9611083885926031
+Nutrición hoja → fruto,Dream,leaf_nut_P_March,Tot anth,13,0.06593406593406594,0.8305423857560938,0.9611083885926031
+Nutrición hoja → fruto,Dream,leaf_nut_P_March,Vit C,16,0.2411764705882353,0.36820660804263405,0.9611083885926031
+Nutrición hoja → fruto,Dream,leaf_nut_P_May,yield_Com Ton/ha,16,0.044117647058823525,0.8711220048065985,0.9611083885926031
+Nutrición hoja → fruto,Dream,leaf_nut_P_May,yield_No com Ton/ha,16,0.014705882352941175,0.956891924031642,0.9923323656624435
+Nutrición hoja → fruto,Dream,leaf_nut_P_May,yield_Nº de plantes,16,0.06569672562035515,0.8089890234517043,0.9611083885926031
+Nutrición hoja → fruto,Dream,leaf_nut_P_May,yield_g/planta,16,-0.08823529411764705,0.7452220943671326,0.9611083885926031
+Nutrición hoja → fruto,Dream,leaf_nut_P_May,fruit_Weight,16,0.04562179307215766,0.8667639425202294,0.9611083885926031
+Nutrición hoja → fruto,Dream,leaf_nut_P_May,fruit_Hydrat,16,-0.16764705882352943,0.5348568245819433,0.9611083885926031
+Nutrición hoja → fruto,Dream,leaf_nut_P_May,fruit_Firm,16,-0.3328427762855763,0.20778890011092663,0.9611083885926031
+Nutrición hoja → fruto,Dream,leaf_nut_P_May,fruit_Hue,15,-0.2321428571428571,0.40509874069364893,0.9611083885926031
+Nutrición hoja → fruto,Dream,leaf_nut_P_May,fruit_Chroma,15,-0.15714285714285714,0.5759526006037947,0.9611083885926031
+Nutrición hoja → fruto,Dream,leaf_nut_P_May,fruit_BRIX,16,-0.27098703909976124,0.310020039075946,0.9611083885926031
+Nutrición hoja → fruto,Dream,leaf_nut_P_May,fruit_Acidity,16,0.10906437853576348,0.6876308054769036,0.9611083885926031
+Nutrición hoja → fruto,Dream,leaf_nut_P_May,Total polyphenols,16,-0.008823529411764706,0.9741279946623942,0.9963683598373347
+Nutrición hoja → fruto,Dream,leaf_nut_P_May,Tot anth,13,-0.5494505494505494,0.05177062555916269,0.6821541250148496
+Nutrición hoja → fruto,Dream,leaf_nut_P_May,Vit C,16,0.06470588235294117,0.8118214513105935,0.9611083885926031
+Nutrición hoja → fruto,Dream,leaf_no3_mg NO3-/ 100 mg DW_March,yield_Com Ton/ha,16,0.0,1.0,1.0
+Nutrición hoja → fruto,Dream,leaf_no3_mg NO3-/ 100 mg DW_March,yield_No com Ton/ha,16,-0.4970588235294117,0.05013355780377417,0.6821541250148496
+Nutrición hoja → fruto,Dream,leaf_no3_mg NO3-/ 100 mg DW_March,yield_Nº de plantes,16,-0.22153547011515104,0.4096097977258646,0.9611083885926031
+Nutrición hoja → fruto,Dream,leaf_no3_mg NO3-/ 100 mg DW_March,yield_g/planta,16,0.044117647058823525,0.8711220048065985,0.9611083885926031
+Nutrición hoja → fruto,Dream,leaf_no3_mg NO3-/ 100 mg DW_March,fruit_Weight,16,0.4150111498822085,0.1099411472080448,0.9252283130260174
+Nutrición hoja → fruto,Dream,leaf_no3_mg NO3-/ 100 mg DW_March,fruit_Hydrat,16,0.3147058823529411,0.23515831926634445,0.9611083885926031
+Nutrición hoja → fruto,Dream,leaf_no3_mg NO3-/ 100 mg DW_March,fruit_Firm,16,0.3136969528709192,0.2367441882232813,0.9611083885926031
+Nutrición hoja → fruto,Dream,leaf_no3_mg NO3-/ 100 mg DW_March,fruit_Hue,15,-0.03214285714285714,0.9094621170945906,0.9790089195941676
+Nutrición hoja → fruto,Dream,leaf_no3_mg NO3-/ 100 mg DW_March,fruit_Chroma,15,-0.30357142857142855,0.27135583600386853,0.9611083885926031
+Nutrición hoja → fruto,Dream,leaf_no3_mg NO3-/ 100 mg DW_March,fruit_BRIX,16,0.20765854626666486,0.4402770211601946,0.9611083885926031
+Nutrición hoja → fruto,Dream,leaf_no3_mg NO3-/ 100 mg DW_March,fruit_Acidity,16,0.07958751947204361,0.769529136741207,0.9611083885926031
+Nutrición hoja → fruto,Dream,leaf_no3_mg NO3-/ 100 mg DW_March,Total polyphenols,16,0.008823529411764706,0.9741279946623942,0.9963683598373347
+Nutrición hoja → fruto,Dream,leaf_no3_mg NO3-/ 100 mg DW_March,Tot anth,13,0.16483516483516483,0.5904789886520052,0.9611083885926031
+Nutrición hoja → fruto,Dream,leaf_no3_mg NO3-/ 100 mg DW_March,Vit C,16,0.38823529411764707,0.13728162367278124,0.9318510212940302
+Nutrición hoja → fruto,Dream,leaf_no3_mg NO3-/ 100 mg DW_May,yield_Com Ton/ha,16,-0.09411764705882353,0.7288144270239805,0.9611083885926031
+Nutrición hoja → fruto,Dream,leaf_no3_mg NO3-/ 100 mg DW_May,yield_No com Ton/ha,16,0.11176470588235293,0.6802736949858406,0.9611083885926031
+Nutrición hoja → fruto,Dream,leaf_no3_mg NO3-/ 100 mg DW_May,yield_Nº de plantes,16,0.5469634365601661,0.02833421791472344,0.6821541250148496
+Nutrición hoja → fruto,Dream,leaf_no3_mg NO3-/ 100 mg DW_May,yield_g/planta,16,-0.3588235294117647,0.17230386289263244,0.9611083885926031
+Nutrición hoja → fruto,Dream,leaf_no3_mg NO3-/ 100 mg DW_May,fruit_Weight,16,-0.5562915413314709,0.025231808768247006,0.6821541250148496
+Nutrición hoja → fruto,Dream,leaf_no3_mg NO3-/ 100 mg DW_May,fruit_Hydrat,16,0.047058823529411764,0.8626036946668731,0.9611083885926031
+Nutrición hoja → fruto,Dream,leaf_no3_mg NO3-/ 100 mg DW_May,fruit_Firm,16,-0.36229788923120243,0.1678857671951134,0.9611083885926031
+Nutrición hoja → fruto,Dream,leaf_no3_mg NO3-/ 100 mg DW_May,fruit_Hue,15,-0.2714285714285714,0.3277893068411728,0.9611083885926031
+Nutrición hoja → fruto,Dream,leaf_no3_mg NO3-/ 100 mg DW_May,fruit_Chroma,15,0.2928571428571428,0.289471667212401,0.9611083885926031
+Nutrición hoja → fruto,Dream,leaf_no3_mg NO3-/ 100 mg DW_May,fruit_BRIX,16,-0.14285729778628717,0.5976406850701259,0.9611083885926031
+Nutrición hoja → fruto,Dream,leaf_no3_mg NO3-/ 100 mg DW_May,fruit_Acidity,16,-0.30508549130950047,0.25055255776107366,0.9611083885926031
+Nutrición hoja → fruto,Dream,leaf_no3_mg NO3-/ 100 mg DW_May,Total polyphenols,16,0.049999999999999996,0.8540995521297436,0.9611083885926031
+Nutrición hoja → fruto,Dream,leaf_no3_mg NO3-/ 100 mg DW_May,Tot anth,13,0.24725274725274726,0.4154051197255382,0.9611083885926031
+Nutrición hoja → fruto,Dream,leaf_no3_mg NO3-/ 100 mg DW_May,Vit C,16,-0.13823529411764704,0.6096659407501825,0.9611083885926031
+Nutrición hoja → fruto,Dream,leaf_no3_mg NO3-/ g DW_March,yield_Com Ton/ha,16,0.10588235294117648,0.6963341050381157,0.9611083885926031
+Nutrición hoja → fruto,Dream,leaf_no3_mg NO3-/ g DW_March,yield_No com Ton/ha,16,-0.5264705882352941,0.036166514972245475,0.6821541250148496
+Nutrición hoja → fruto,Dream,leaf_no3_mg NO3-/ g DW_March,yield_Nº de plantes,16,-0.0641688947919748,0.8133574024859543,0.9611083885926031
+Nutrición hoja → fruto,Dream,leaf_no3_mg NO3-/ g DW_March,yield_g/planta,16,0.02058823529411765,0.9396737397890448,0.9790089195941676
+Nutrición hoja → fruto,Dream,leaf_no3_mg NO3-/ g DW_March,fruit_Weight,16,0.3929360887182612,0.13217547328943105,0.9252283130260174
+Nutrición hoja → fruto,Dream,leaf_no3_mg NO3-/ g DW_March,fruit_Hydrat,16,0.3147058823529411,0.23515831926634445,0.9611083885926031
+Nutrición hoja → fruto,Dream,leaf_no3_mg NO3-/ g DW_March,fruit_Firm,16,0.04418266941843933,0.8709335384270962,0.9611083885926031
+Nutrición hoja → fruto,Dream,leaf_no3_mg NO3-/ g DW_March,fruit_Hue,15,-0.15357142857142855,0.5847640949410158,0.9611083885926031
+Nutrición hoja → fruto,Dream,leaf_no3_mg NO3-/ g DW_March,fruit_Chroma,15,-0.21071428571428572,0.450957865215285,0.9611083885926031
+Nutrición hoja → fruto,Dream,leaf_no3_mg NO3-/ g DW_March,fruit_BRIX,16,0.058910225891252437,0.8284317431419784,0.9611083885926031
+Nutrición hoja → fruto,Dream,leaf_no3_mg NO3-/ g DW_March,fruit_Acidity,16,0.06927061879974165,0.7987913664853155,0.9611083885926031
+Nutrición hoja → fruto,Dream,leaf_no3_mg NO3-/ g DW_March,Total polyphenols,16,-0.06764705882352941,0.8034203137966691,0.9611083885926031
+Nutrición hoja → fruto,Dream,leaf_no3_mg NO3-/ g DW_March,Tot anth,13,0.07142857142857142,0.8166280406760861,0.9611083885926031
+Nutrición hoja → fruto,Dream,leaf_no3_mg NO3-/ g DW_March,Vit C,16,0.3147058823529411,0.23515831926634445,0.9611083885926031
+Nutrición hoja → fruto,Dream,leaf_no3_mg NO3-/ g DW_May,yield_Com Ton/ha,16,0.032352941176470584,0.9053195187918449,0.9790089195941676
+Nutrición hoja → fruto,Dream,leaf_no3_mg NO3-/ g DW_May,yield_No com Ton/ha,16,0.1323529411764706,0.6251064291516133,0.9611083885926031
+Nutrición hoja → fruto,Dream,leaf_no3_mg NO3-/ g DW_May,yield_Nº de plantes,16,0.516406819992559,0.04056446988971434,0.6821541250148496
+Nutrición hoja → fruto,Dream,leaf_no3_mg NO3-/ g DW_May,yield_g/planta,16,-0.21764705882352942,0.41808684161130294,0.9611083885926031
+Nutrición hoja → fruto,Dream,leaf_no3_mg NO3-/ g DW_May,fruit_Weight,16,-0.5136130897478395,0.041853715704549106,0.6821541250148496
+Nutrición hoja → fruto,Dream,leaf_no3_mg NO3-/ g DW_May,fruit_Hydrat,16,0.02058823529411765,0.9396737397890448,0.9790089195941676
+Nutrición hoja → fruto,Dream,leaf_no3_mg NO3-/ g DW_May,fruit_Firm,16,-0.36377064487848376,0.16603597299551923,0.9611083885926031
+Nutrición hoja → fruto,Dream,leaf_no3_mg NO3-/ g DW_May,fruit_Hue,15,-0.20357142857142854,0.46679507248911234,0.9611083885926031
+Nutrición hoja → fruto,Dream,leaf_no3_mg NO3-/ g DW_May,fruit_Chroma,15,0.28928571428571426,0.29566536100437785,0.9611083885926031
+Nutrición hoja → fruto,Dream,leaf_no3_mg NO3-/ g DW_May,fruit_BRIX,16,-0.20618579061938355,0.443598689364636,0.9611083885926031
+Nutrición hoja → fruto,Dream,leaf_no3_mg NO3-/ g DW_May,fruit_Acidity,16,-0.20781185639922498,0.4399319737751428,0.9611083885926031
+Nutrición hoja → fruto,Dream,leaf_no3_mg NO3-/ g DW_May,Total polyphenols,16,0.07941176470588236,0.770025319039825,0.9611083885926031
+Nutrición hoja → fruto,Dream,leaf_no3_mg NO3-/ g DW_May,Tot anth,13,0.26373626373626374,0.3839365166506742,0.9611083885926031
+Nutrición hoja → fruto,Dream,leaf_no3_mg NO3-/ g DW_May,Vit C,16,-0.17352941176470588,0.5204075144487408,0.9611083885926031
+RGB → fruto,Donna,leaf_rgb_CSI_December,yield_Com Ton/ha,16,-0.0588235294117647,0.8286807500332258,0.9533864726264307
+RGB → fruto,Donna,leaf_rgb_CSI_December,yield_No com Ton/ha,16,-0.3735294117647059,0.15412246989684827,0.9373067455542584
+RGB → fruto,Donna,leaf_rgb_CSI_December,yield_g/planta,16,-0.032352941176470584,0.9053195187918449,0.9629307608967805
+RGB → fruto,Donna,leaf_rgb_CSI_December,fruit_Weight,16,0.23823529411764705,0.3742541297279883,0.9373067455542584
+RGB → fruto,Donna,leaf_rgb_CSI_December,fruit_Hydrat,16,-0.14422373293778876,0.5941040166002363,0.9373067455542584
+RGB → fruto,Donna,leaf_rgb_CSI_December,fruit_Firm,16,0.058910225891252437,0.8284317431419784,0.9533864726264307
+RGB → fruto,Donna,leaf_rgb_CSI_December,fruit_Hue,16,0.2088235294117647,0.43765851094980035,0.9373067455542584
+RGB → fruto,Donna,leaf_rgb_CSI_December,fruit_Chroma,16,-0.10294117647058824,0.7044103818167706,0.9533864726264307
+RGB → fruto,Donna,leaf_rgb_CSI_December,fruit_BRIX,16,0.21354956885579007,0.4271179896279578,0.9373067455542584
+RGB → fruto,Donna,leaf_rgb_CSI_December,fruit_Acidity,16,-0.13757637298374073,0.6113880270691718,0.9373067455542584
+RGB → fruto,Donna,leaf_rgb_CSI_December,Total polyphenols,16,-0.3058823529411765,0.24925429892891857,0.9373067455542584
+RGB → fruto,Donna,leaf_rgb_CSI_December,Tot anth,16,-0.11470588235294117,0.6722910465997229,0.9474085928590287
+RGB → fruto,Donna,leaf_rgb_CSI_December,Vit C,16,-0.08977191540005218,0.7409257646943954,0.9533864726264307
+RGB → fruto,Donna,leaf_rgb_CSI_March,yield_Com Ton/ha,16,-0.31176470588235294,0.23980004767411284,0.9373067455542584
+RGB → fruto,Donna,leaf_rgb_CSI_March,yield_No com Ton/ha,16,0.1647058823529412,0.5421481352010779,0.9373067455542584
+RGB → fruto,Donna,leaf_rgb_CSI_March,yield_g/planta,16,-0.3735294117647059,0.15412246989684827,0.9373067455542584
+RGB → fruto,Donna,leaf_rgb_CSI_March,fruit_Weight,16,0.08529411764705883,0.7534650694747832,0.9533864726264307
+RGB → fruto,Donna,leaf_rgb_CSI_March,fruit_Hydrat,16,-0.166298794101736,0.5381937741142251,0.9373067455542584
+RGB → fruto,Donna,leaf_rgb_CSI_March,fruit_Firm,16,0.326951753696451,0.21644265987261652,0.9373067455542584
+RGB → fruto,Donna,leaf_rgb_CSI_March,fruit_Hue,16,-0.18529411764705883,0.4920570502059438,0.9373067455542584
+RGB → fruto,Donna,leaf_rgb_CSI_March,fruit_Chroma,16,-0.31176470588235294,0.23980004767411284,0.9373067455542584
+RGB → fruto,Donna,leaf_rgb_CSI_March,fruit_BRIX,16,0.23122263662316583,0.3888912204317829,0.9373067455542584
+RGB → fruto,Donna,leaf_rgb_CSI_March,fruit_Acidity,16,-0.14941089969201948,0.5807565582258036,0.9373067455542584
+RGB → fruto,Donna,leaf_rgb_CSI_March,Total polyphenols,16,-0.03823529411764706,0.8881976539853073,0.9533864726264307
+RGB → fruto,Donna,leaf_rgb_CSI_March,Tot anth,16,0.1323529411764706,0.6251064291516133,0.9373067455542584
+RGB → fruto,Donna,leaf_rgb_CSI_March,Vit C,16,-0.13539370847220983,0.6171060124884011,0.9373067455542584
+RGB → fruto,Donna,leaf_rgb_CSI_May,yield_Com Ton/ha,16,0.6029411764705882,0.013424125397891343,0.5905878628608003
+RGB → fruto,Donna,leaf_rgb_CSI_May,yield_No com Ton/ha,16,0.39999999999999997,0.12475042359840012,0.9373067455542584
+RGB → fruto,Donna,leaf_rgb_CSI_May,yield_g/planta,16,0.5470588235294118,0.028301087242108842,0.6622454414653469
+RGB → fruto,Donna,leaf_rgb_CSI_May,fruit_Weight,16,-0.06764705882352941,0.8034203137966691,0.9533864726264307
+RGB → fruto,Donna,leaf_rgb_CSI_May,fruit_Hydrat,16,0.5165564312363659,0.04049627992947798,0.7373302856648551
+RGB → fruto,Donna,leaf_rgb_CSI_May,fruit_Firm,16,-0.31664246416548186,0.23213308505605812,0.9373067455542584
+RGB → fruto,Donna,leaf_rgb_CSI_May,fruit_Hue,16,-0.15882352941176472,0.5568612810855389,0.9373067455542584
+RGB → fruto,Donna,leaf_rgb_CSI_May,fruit_Chroma,16,-0.3235294117647059,0.2215741250012429,0.9373067455542584
+RGB → fruto,Donna,leaf_rgb_CSI_May,fruit_BRIX,16,-0.04270991377115802,0.8752038775690698,0.9533864726264307
+RGB → fruto,Donna,leaf_rgb_CSI_May,fruit_Acidity,16,-0.17455926894711188,0.5178963242321,0.9373067455542584
+RGB → fruto,Donna,leaf_rgb_CSI_May,Total polyphenols,16,0.22647058823529412,0.3989829266412891,0.9373067455542584
+RGB → fruto,Donna,leaf_rgb_CSI_May,Tot anth,16,0.2588235294117647,0.3330723066336081,0.9373067455542584
+RGB → fruto,Donna,leaf_rgb_CSI_May,Vit C,16,0.28403245364278806,0.28636716511322435,0.9373067455542584
+RGB → fruto,Donna,leaf_rgb_GA_December,yield_Com Ton/ha,16,-0.01764705882352941,0.9482801500547112,0.9732348908456246
+RGB → fruto,Donna,leaf_rgb_GA_December,yield_No com Ton/ha,16,-0.06176470588235294,0.8202418775044894,0.9533864726264307
+RGB → fruto,Donna,leaf_rgb_GA_December,yield_g/planta,16,-0.049999999999999996,0.8540995521297436,0.9533864726264307
+RGB → fruto,Donna,leaf_rgb_GA_December,fruit_Weight,16,-0.19117647058823528,0.47816401281702825,0.9373067455542584
+RGB → fruto,Donna,leaf_rgb_GA_December,fruit_Hydrat,16,-0.26490073396736713,0.32143497739966814,0.9373067455542584
+RGB → fruto,Donna,leaf_rgb_GA_December,fruit_Firm,16,0.3254789980491697,0.21864151745650834,0.9373067455542584
+RGB → fruto,Donna,leaf_rgb_GA_December,fruit_Hue,16,-0.33529411764705885,0.20425458084551512,0.9373067455542584
+RGB → fruto,Donna,leaf_rgb_GA_December,fruit_Chroma,16,0.15,0.5792486306642535,0.9373067455542584
+RGB → fruto,Donna,leaf_rgb_GA_December,fruit_BRIX,16,-0.2400591705068537,0.37049755795269135,0.9373067455542584
+RGB → fruto,Donna,leaf_rgb_GA_December,fruit_Acidity,16,-0.09023826615062563,0.7396232790475537,0.9533864726264307
+RGB → fruto,Donna,leaf_rgb_GA_December,Total polyphenols,16,0.01764705882352941,0.9482801500547112,0.9732348908456246
+RGB → fruto,Donna,leaf_rgb_GA_December,Tot anth,16,-0.36176470588235293,0.16855882250388438,0.9373067455542584
+RGB → fruto,Donna,leaf_rgb_GA_December,Vit C,16,-0.13245036698368357,0.6248494815021565,0.9373067455542584
+RGB → fruto,Donna,leaf_rgb_GA_March,yield_Com Ton/ha,16,0.0411764705882353,0.8796536149318311,0.9533864726264307
+RGB → fruto,Donna,leaf_rgb_GA_March,yield_No com Ton/ha,16,0.10882352941176471,0.688288293957414,0.9474085928590287
+RGB → fruto,Donna,leaf_rgb_GA_March,yield_g/planta,16,0.11470588235294117,0.6722910465997229,0.9474085928590287
+RGB → fruto,Donna,leaf_rgb_GA_March,fruit_Weight,16,0.047058823529411764,0.8626036946668731,0.9533864726264307
+RGB → fruto,Donna,leaf_rgb_GA_March,fruit_Hydrat,16,0.23399564833784092,0.3830667243535951,0.9373067455542584
+RGB → fruto,Donna,leaf_rgb_GA_March,fruit_Firm,16,0.09131085013144127,0.7366301466579943,0.9533864726264307
+RGB → fruto,Donna,leaf_rgb_GA_March,fruit_Hue,16,0.2823529411764706,0.2893498290632739,0.9373067455542584
+RGB → fruto,Donna,leaf_rgb_GA_March,fruit_Chroma,16,0.22941176470588234,0.39272049088161975,0.9373067455542584
+RGB → fruto,Donna,leaf_rgb_GA_March,fruit_BRIX,16,0.6067753266799001,0.012692841373323552,0.5905878628608003
+RGB → fruto,Donna,leaf_rgb_GA_March,fruit_Acidity,16,0.1627247422388331,0.5470841368437885,0.9373067455542584
+RGB → fruto,Donna,leaf_rgb_GA_March,Total polyphenols,16,0.17352941176470588,0.5204075144487408,0.9373067455542584
+RGB → fruto,Donna,leaf_rgb_GA_March,Tot anth,16,-0.01764705882352941,0.9482801500547112,0.9732348908456246
+RGB → fruto,Donna,leaf_rgb_GA_March,Vit C,16,0.23399564833784092,0.3830667243535951,0.9373067455542584
+RGB → fruto,Donna,leaf_rgb_GA_May,yield_Com Ton/ha,16,0.06470588235294117,0.8118214513105935,0.9533864726264307
+RGB → fruto,Donna,leaf_rgb_GA_May,yield_No com Ton/ha,16,0.45,0.08029573654339638,0.9373067455542584
+RGB → fruto,Donna,leaf_rgb_GA_May,yield_g/planta,16,0.047058823529411764,0.8626036946668731,0.9533864726264307
+RGB → fruto,Donna,leaf_rgb_GA_May,fruit_Weight,16,-0.27058823529411763,0.31076062710233504,0.9373067455542584
+RGB → fruto,Donna,leaf_rgb_GA_May,fruit_Hydrat,16,0.37086102755431394,0.15732098164897837,0.9373067455542584
+RGB → fruto,Donna,leaf_rgb_GA_May,fruit_Firm,16,-0.2960238851035435,0.26561012179610544,0.9373067455542584
+RGB → fruto,Donna,leaf_rgb_GA_May,fruit_Hue,16,0.2352941176470588,0.38035580118865675,0.9373067455542584
+RGB → fruto,Donna,leaf_rgb_GA_May,fruit_Chroma,16,-0.06764705882352941,0.8034203137966691,0.9533864726264307
+RGB → fruto,Donna,leaf_rgb_GA_May,fruit_BRIX,16,-0.14433005343356847,0.5938291900469845,0.9373067455542584
+RGB → fruto,Donna,leaf_rgb_GA_May,fruit_Acidity,16,0.0606519493799287,0.8234324933947311,0.9533864726264307
+RGB → fruto,Donna,leaf_rgb_GA_May,Total polyphenols,16,0.4852941176470588,0.05671771428191194,0.7373302856648551
+RGB → fruto,Donna,leaf_rgb_GA_May,Tot anth,16,0.29705882352941176,0.2638630146135225,0.9373067455542584
+RGB → fruto,Donna,leaf_rgb_GA_May,Vit C,16,0.1162619887967889,0.6680807907616779,0.9474085928590287
+RGB → fruto,Donna,leaf_rgb_GGA_December,yield_Com Ton/ha,16,-0.01764705882352941,0.9482801500547112,0.9732348908456246
+RGB → fruto,Donna,leaf_rgb_GGA_December,yield_No com Ton/ha,16,0.19999999999999998,0.45768790507519974,0.9373067455542584
+RGB → fruto,Donna,leaf_rgb_GGA_December,yield_g/planta,16,-0.008823529411764706,0.9741279946623942,0.9741279946623942
+RGB → fruto,Donna,leaf_rgb_GGA_December,fruit_Weight,16,-0.2823529411764706,0.2893498290632739,0.9373067455542584
+RGB → fruto,Donna,leaf_rgb_GGA_December,fruit_Hydrat,16,-0.10890363507547315,0.6880695920991755,0.9474085928590287
+RGB → fruto,Donna,leaf_rgb_GGA_December,fruit_Firm,16,0.24595019309597893,0.3585070155692306,0.9373067455542584
+RGB → fruto,Donna,leaf_rgb_GGA_December,fruit_Hue,16,-0.29411764705882354,0.268846554622893,0.9373067455542584
+RGB → fruto,Donna,leaf_rgb_GGA_December,fruit_Chroma,16,0.1411764705882353,0.602002683881979,0.9373067455542584
+RGB → fruto,Donna,leaf_rgb_GGA_December,fruit_BRIX,16,-0.3048604189872314,0.2509200064992101,0.9373067455542584
+RGB → fruto,Donna,leaf_rgb_GGA_December,fruit_Acidity,16,-0.07396579192674234,0.7854407102322906,0.9533864726264307
+RGB → fruto,Donna,leaf_rgb_GGA_December,Total polyphenols,16,0.19117647058823528,0.47816401281702825,0.9373067455542584
+RGB → fruto,Donna,leaf_rgb_GGA_December,Tot anth,16,-0.16176470588235295,0.5494831434036929,0.9373067455542584
+RGB → fruto,Donna,leaf_rgb_GGA_December,Vit C,16,-0.1221486717738415,0.6522382010131601,0.9474085928590287
+RGB → fruto,Donna,leaf_rgb_GGA_March,yield_Com Ton/ha,16,0.19999999999999998,0.45768790507519974,0.9373067455542584
+RGB → fruto,Donna,leaf_rgb_GGA_March,yield_No com Ton/ha,16,-0.014705882352941175,0.956891924031642,0.9735335227104532
+RGB → fruto,Donna,leaf_rgb_GGA_March,yield_g/planta,16,0.28823529411764703,0.27898445973708325,0.9373067455542584
+RGB → fruto,Donna,leaf_rgb_GGA_March,fruit_Weight,16,0.15,0.5792486306642535,0.9373067455542584
+RGB → fruto,Donna,leaf_rgb_GGA_March,fruit_Hydrat,16,0.22369395312799886,0.4049436432683511,0.9373067455542584
+RGB → fruto,Donna,leaf_rgb_GGA_March,fruit_Firm,16,-0.04712818071300195,0.8624029882112928,0.9533864726264307
+RGB → fruto,Donna,leaf_rgb_GGA_March,fruit_Hue,16,0.30882352941176466,0.24449869579851796,0.9373067455542584
+RGB → fruto,Donna,leaf_rgb_GGA_March,fruit_Chroma,16,0.2323529411764706,0.38651134990798475,0.9373067455542584
+RGB → fruto,Donna,leaf_rgb_GGA_March,fruit_BRIX,16,0.49337314183923914,0.05213175869734282,0.7373302856648551
+RGB → fruto,Donna,leaf_rgb_GGA_March,fruit_Acidity,16,0.16124542640029826,0.5507826718864557,0.9373067455542584
+RGB → fruto,Donna,leaf_rgb_GGA_March,Total polyphenols,16,0.055882352941176466,0.8371372217954723,0.9533864726264307
+RGB → fruto,Donna,leaf_rgb_GGA_March,Tot anth,16,0.008823529411764706,0.9741279946623942,0.9741279946623942
+RGB → fruto,Donna,leaf_rgb_GGA_March,Vit C,16,0.2016188919640516,0.4539792236839837,0.9373067455542584
+RGB → fruto,Donna,leaf_rgb_GGA_May,yield_Com Ton/ha,16,-0.5735294117647058,0.020191038046523092,0.5905878628608003
+RGB → fruto,Donna,leaf_rgb_GGA_May,yield_No com Ton/ha,16,0.23823529411764705,0.3742541297279883,0.9373067455542584
+RGB → fruto,Donna,leaf_rgb_GGA_May,yield_g/planta,16,-0.5823529411764706,0.017932734131035355,0.5905878628608003
+RGB → fruto,Donna,leaf_rgb_GGA_May,fruit_Weight,16,-0.06470588235294117,0.8118214513105935,0.9533864726264307
+RGB → fruto,Donna,leaf_rgb_GGA_May,fruit_Hydrat,16,-0.2104489164296305,0.4340184998606945,0.9373067455542584
+RGB → fruto,Donna,leaf_rgb_GGA_May,fruit_Firm,16,-0.060382981538533755,0.8242040982181161,0.9533864726264307
+RGB → fruto,Donna,leaf_rgb_GGA_May,fruit_Hue,16,0.4852941176470588,0.05671771428191194,0.7373302856648551
+RGB → fruto,Donna,leaf_rgb_GGA_May,fruit_Chroma,16,0.03823529411764706,0.8881976539853073,0.9533864726264307
+RGB → fruto,Donna,leaf_rgb_GGA_May,fruit_BRIX,16,-0.19293098979385173,0.4740574077232793,0.9373067455542584
+RGB → fruto,Donna,leaf_rgb_GGA_May,fruit_Acidity,16,0.2825493251601557,0.2890001132332517,0.9373067455542584
+RGB → fruto,Donna,leaf_rgb_GGA_May,Total polyphenols,16,0.12941176470588234,0.63288233246826,0.9373067455542584
+RGB → fruto,Donna,leaf_rgb_GGA_May,Tot anth,16,0.17352941176470588,0.5204075144487408,0.9373067455542584
+RGB → fruto,Donna,leaf_rgb_GGA_May,Vit C,16,-0.30022083182968273,0.2585688524343966,0.9373067455542584
+RGB → fruto,Dream,leaf_rgb_CSI_December,yield_Com Ton/ha,16,-0.055882352941176466,0.8371372217954723,0.9978407781360259
+RGB → fruto,Dream,leaf_rgb_CSI_December,yield_No com Ton/ha,16,0.19705882352941176,0.46446421122573867,0.9978407781360259
+RGB → fruto,Dream,leaf_rgb_CSI_December,yield_Nº de plantes,16,-0.09472551135958182,0.7271250514263684,0.9978407781360259
+RGB → fruto,Dream,leaf_rgb_CSI_December,yield_g/planta,16,0.06176470588235294,0.8202418775044894,0.9978407781360259
+RGB → fruto,Dream,leaf_rgb_CSI_December,fruit_Weight,16,-0.004415012232789452,0.9870529639838932,0.9978407781360259
+RGB → fruto,Dream,leaf_rgb_CSI_December,fruit_Hydrat,16,0.3147058823529411,0.23515831926634445,0.9978407781360259
+RGB → fruto,Dream,leaf_rgb_CSI_December,fruit_Firm,16,0.3446248214638268,0.19115824097985967,0.9978407781360259
+RGB → fruto,Dream,leaf_rgb_CSI_December,fruit_Hue,15,0.09285714285714285,0.742045009907367,0.9978407781360259
+RGB → fruto,Dream,leaf_rgb_CSI_December,fruit_Chroma,15,-0.1464285714285714,0.602549920983054,0.9978407781360259
+RGB → fruto,Dream,leaf_rgb_CSI_December,fruit_BRIX,16,0.35787962228935855,0.1735173654092614,0.9978407781360259
+RGB → fruto,Dream,leaf_rgb_CSI_December,fruit_Acidity,16,0.2299195006970149,0.39164479091998494,0.9978407781360259
+RGB → fruto,Dream,leaf_rgb_CSI_December,Total polyphenols,16,0.4764705882352941,0.062059174189226164,0.7608832139067171
+RGB → fruto,Dream,leaf_rgb_CSI_December,Tot anth,13,0.2857142857142857,0.34400021825867,0.9978407781360259
+RGB → fruto,Dream,leaf_rgb_CSI_December,Vit C,16,0.3205882352941176,0.22604542220798235,0.9978407781360259
+RGB → fruto,Dream,leaf_rgb_CSI_March,yield_Com Ton/ha,16,-0.05294117647058824,0.8456104411493659,0.9978407781360259
+RGB → fruto,Dream,leaf_rgb_CSI_March,yield_No com Ton/ha,16,0.1647058823529412,0.5421481352010779,0.9978407781360259
+RGB → fruto,Dream,leaf_rgb_CSI_March,yield_Nº de plantes,16,0.10083683467310325,0.7102070436289268,0.9978407781360259
+RGB → fruto,Dream,leaf_rgb_CSI_March,yield_g/planta,16,-0.07058823529411765,0.7950393023376279,0.9978407781360259
+RGB → fruto,Dream,leaf_rgb_CSI_March,fruit_Weight,16,0.1751288185673149,0.5165099373439108,0.9978407781360259
+RGB → fruto,Dream,leaf_rgb_CSI_March,fruit_Hydrat,16,0.14705882352941177,0.5867933937012054,0.9978407781360259
+RGB → fruto,Dream,leaf_rgb_CSI_March,fruit_Firm,16,0.15611209861181896,0.5637007947743949,0.9978407781360259
+RGB → fruto,Dream,leaf_rgb_CSI_March,fruit_Hue,15,0.0035714285714285704,0.9899214068809781,0.9978407781360259
+RGB → fruto,Dream,leaf_rgb_CSI_March,fruit_Chroma,15,0.0964285714285714,0.7324528633867308,0.9978407781360259
+RGB → fruto,Dream,leaf_rgb_CSI_March,fruit_BRIX,16,0.20913130191394616,0.4369680683064937,0.9978407781360259
+RGB → fruto,Dream,leaf_rgb_CSI_March,fruit_Acidity,16,0.30508549130950047,0.25055255776107366,0.9978407781360259
+RGB → fruto,Dream,leaf_rgb_CSI_March,Total polyphenols,16,0.3970588235294118,0.1278060090882619,0.9978407781360259
+RGB → fruto,Dream,leaf_rgb_CSI_March,Tot anth,13,0.22527472527472525,0.4593051427250058,0.9978407781360259
+RGB → fruto,Dream,leaf_rgb_CSI_March,Vit C,16,0.26176470588235295,0.3274104118125859,0.9978407781360259
+RGB → fruto,Dream,leaf_rgb_CSI_May,yield_Com Ton/ha,16,-0.02058823529411765,0.9396737397890448,0.9978407781360259
+RGB → fruto,Dream,leaf_rgb_CSI_May,yield_No com Ton/ha,16,-0.19117647058823528,0.47816401281702825,0.9978407781360259
+RGB → fruto,Dream,leaf_rgb_CSI_May,yield_Nº de plantes,16,-0.0702802181054962,0.7959160426547401,0.9978407781360259
+RGB → fruto,Dream,leaf_rgb_CSI_May,yield_g/planta,16,0.09411764705882353,0.7288144270239805,0.9978407781360259
+RGB → fruto,Dream,leaf_rgb_CSI_May,fruit_Weight,16,0.04562179307215766,0.8667639425202294,0.9978407781360259
+RGB → fruto,Dream,leaf_rgb_CSI_May,fruit_Hydrat,16,-0.4294117647058823,0.09693648522272379,0.899693308663418
+RGB → fruto,Dream,leaf_rgb_CSI_May,fruit_Firm,16,0.6008843040907749,0.013829794817761839,0.5808513823459972
+RGB → fruto,Dream,leaf_rgb_CSI_May,fruit_Hue,15,-0.007142857142857141,0.9798442277615982,0.9978407781360259
+RGB → fruto,Dream,leaf_rgb_CSI_May,fruit_Chroma,15,-0.010714285714285713,0.9697698761545686,0.9978407781360259
+RGB → fruto,Dream,leaf_rgb_CSI_May,fruit_BRIX,16,0.2754053060416052,0.30188458830681697,0.9978407781360259
+RGB → fruto,Dream,leaf_rgb_CSI_May,fruit_Acidity,16,-0.2682394174798507,0.3151434353092577,0.9978407781360259
+RGB → fruto,Dream,leaf_rgb_CSI_May,Total polyphenols,16,0.03529411764705882,0.8967532476935333,0.9978407781360259
+RGB → fruto,Dream,leaf_rgb_CSI_May,Tot anth,13,-0.35714285714285715,0.23092986230203402,0.9978407781360259
+RGB → fruto,Dream,leaf_rgb_CSI_May,Vit C,16,-0.34705882352941175,0.18783442010629964,0.9978407781360259
+RGB → fruto,Dream,leaf_rgb_GA_December,yield_Com Ton/ha,16,0.02647058823529412,0.9224805705017287,0.9978407781360259
+RGB → fruto,Dream,leaf_rgb_GA_December,yield_No com Ton/ha,16,0.1647058823529412,0.5421481352010779,0.9978407781360259
+RGB → fruto,Dream,leaf_rgb_GA_December,yield_Nº de plantes,16,0.04125143236626951,0.8794360116900363,0.9978407781360259
+RGB → fruto,Dream,leaf_rgb_GA_December,yield_g/planta,16,0.0,1.0,1.0
+RGB → fruto,Dream,leaf_rgb_GA_December,fruit_Weight,16,-0.06916852498036807,0.7990822637780812,0.9978407781360259
+RGB → fruto,Dream,leaf_rgb_GA_December,fruit_Hydrat,16,0.0411764705882353,0.8796536149318311,0.9978407781360259
+RGB → fruto,Dream,leaf_rgb_GA_December,fruit_Firm,16,-0.5463923451413664,0.02853319451626067,0.7179104539520603
+RGB → fruto,Dream,leaf_rgb_GA_December,fruit_Hue,15,0.48571428571428565,0.06642631232518958,0.7608832139067171
+RGB → fruto,Dream,leaf_rgb_GA_December,fruit_Chroma,15,0.46071428571428563,0.08393338135031411,0.8813005041782982
+RGB → fruto,Dream,leaf_rgb_GA_December,fruit_BRIX,16,-0.34020655452198284,0.19728935903064776,0.9978407781360259
+RGB → fruto,Dream,leaf_rgb_GA_December,fruit_Acidity,16,-0.11643359330169342,0.6676170563080901,0.9978407781360259
+RGB → fruto,Dream,leaf_rgb_GA_December,Total polyphenols,16,-0.15882352941176472,0.5568612810855389,0.9978407781360259
+RGB → fruto,Dream,leaf_rgb_GA_December,Tot anth,13,-0.06593406593406594,0.8305423857560938,0.9978407781360259
+RGB → fruto,Dream,leaf_rgb_GA_December,Vit C,16,-0.21470588235294116,0.4245592336201027,0.9978407781360259
+RGB → fruto,Dream,leaf_rgb_GA_March,yield_Com Ton/ha,16,-0.16176470588235295,0.5494831434036929,0.9978407781360259
+RGB → fruto,Dream,leaf_rgb_GA_March,yield_No com Ton/ha,16,-0.09117647058823529,0.7370049501736589,0.9978407781360259
+RGB → fruto,Dream,leaf_rgb_GA_March,yield_Nº de plantes,16,0.1054203271582443,0.6976007995500787,0.9978407781360259
+RGB → fruto,Dream,leaf_rgb_GA_March,yield_g/planta,16,-0.13529411764705881,0.6173674089706418,0.9978407781360259
+RGB → fruto,Dream,leaf_rgb_GA_March,fruit_Weight,16,0.08830024465578903,0.7450403518336162,0.9978407781360259
+RGB → fruto,Dream,leaf_rgb_GA_March,fruit_Hydrat,16,-0.047058823529411764,0.8626036946668731,0.9978407781360259
+RGB → fruto,Dream,leaf_rgb_GA_March,fruit_Firm,16,0.11192942919337963,0.6798257679380303,0.9978407781360259
+RGB → fruto,Dream,leaf_rgb_GA_March,fruit_Hue,15,-0.5357142857142856,0.03956697222954947,0.7179104539520603
+RGB → fruto,Dream,leaf_rgb_GA_March,fruit_Chroma,15,-0.1464285714285714,0.602549920983054,0.9978407781360259
+RGB → fruto,Dream,leaf_rgb_GA_March,fruit_BRIX,16,0.1590576099063816,0.5562725083417572,0.9978407781360259
+RGB → fruto,Dream,leaf_rgb_GA_March,fruit_Acidity,16,-0.25497483090117673,0.34056533466674177,0.9978407781360259
+RGB → fruto,Dream,leaf_rgb_GA_March,Total polyphenols,16,-0.02058823529411765,0.9396737397890448,0.9978407781360259
+RGB → fruto,Dream,leaf_rgb_GA_March,Tot anth,13,-0.021978021978021976,0.9431862416608072,0.9978407781360259
+RGB → fruto,Dream,leaf_rgb_GA_March,Vit C,16,-0.27941176470588236,0.29461765356841446,0.9978407781360259
+RGB → fruto,Dream,leaf_rgb_GA_May,yield_Com Ton/ha,16,0.2352941176470588,0.38035580118865675,0.9978407781360259
+RGB → fruto,Dream,leaf_rgb_GA_May,yield_No com Ton/ha,16,0.14705882352941177,0.5867933937012054,0.9978407781360259
+RGB → fruto,Dream,leaf_rgb_GA_May,yield_Nº de plantes,16,0.1665335602934584,0.5376120624203474,0.9978407781360259
+RGB → fruto,Dream,leaf_rgb_GA_May,yield_g/planta,16,0.03529411764705882,0.8967532476935333,0.9978407781360259
+RGB → fruto,Dream,leaf_rgb_GA_May,fruit_Weight,16,-0.2913908073641038,0.27351780164381545,0.9978407781360259
+RGB → fruto,Dream,leaf_rgb_GA_May,fruit_Hydrat,16,0.047058823529411764,0.8626036946668731,0.9978407781360259
+RGB → fruto,Dream,leaf_rgb_GA_May,fruit_Firm,16,-0.5508106120832104,0.027021283676316312,0.7179104539520603
+RGB → fruto,Dream,leaf_rgb_GA_May,fruit_Hue,15,0.12142857142857141,0.6664011137233894,0.9978407781360259
+RGB → fruto,Dream,leaf_rgb_GA_May,fruit_Chroma,15,0.1607142857142857,0.5671967045803448,0.9978407781360259
+RGB → fruto,Dream,leaf_rgb_GA_May,fruit_BRIX,16,-0.30044215204538743,0.2582007616835657,0.9978407781360259
+RGB → fruto,Dream,leaf_rgb_GA_May,fruit_Acidity,16,-0.29476859063719857,0.2677386847936785,0.9978407781360259
+RGB → fruto,Dream,leaf_rgb_GA_May,Total polyphenols,16,0.17352941176470588,0.5204075144487408,0.9978407781360259
+RGB → fruto,Dream,leaf_rgb_GA_May,Tot anth,13,-0.021978021978021976,0.9431862416608072,0.9978407781360259
+RGB → fruto,Dream,leaf_rgb_GA_May,Vit C,16,-0.14705882352941177,0.5867933937012054,0.9978407781360259
+RGB → fruto,Dream,leaf_rgb_GGA_December,yield_Com Ton/ha,16,0.044117647058823525,0.8711220048065985,0.9978407781360259
+RGB → fruto,Dream,leaf_rgb_GGA_December,yield_No com Ton/ha,16,-0.0058823529411764705,0.9827505044191351,0.9978407781360259
+RGB → fruto,Dream,leaf_rgb_GGA_December,yield_Nº de plantes,16,0.08250286473253902,0.7613110322454223,0.9978407781360259
+RGB → fruto,Dream,leaf_rgb_GGA_December,yield_g/planta,16,-0.03529411764705882,0.8967532476935333,0.9978407781360259
+RGB → fruto,Dream,leaf_rgb_GGA_December,fruit_Weight,16,-0.08388523242299958,0.7574225448483594,0.9978407781360259
+RGB → fruto,Dream,leaf_rgb_GGA_December,fruit_Hydrat,16,-0.09411764705882353,0.7288144270239805,0.9978407781360259
+RGB → fruto,Dream,leaf_rgb_GGA_December,fruit_Firm,16,-0.5169372321957401,0.04032310685729244,0.7179104539520603
+RGB → fruto,Dream,leaf_rgb_GGA_December,fruit_Hue,15,0.3714285714285714,0.17284974708033998,0.9978407781360259
+RGB → fruto,Dream,leaf_rgb_GGA_December,fruit_Chroma,15,0.38928571428571423,0.15151193679039388,0.9978407781360259
+RGB → fruto,Dream,leaf_rgb_GGA_December,fruit_BRIX,16,-0.4153170925333297,0.10965278367871642,0.9210833829012179
+RGB → fruto,Dream,leaf_rgb_GGA_December,fruit_Acidity,16,-0.21223338525878294,0.43004019677528127,0.9978407781360259
+RGB → fruto,Dream,leaf_rgb_GGA_December,Total polyphenols,16,-0.3058823529411765,0.24925429892891857,0.9978407781360259
+RGB → fruto,Dream,leaf_rgb_GGA_December,Tot anth,13,-0.1868131868131868,0.5411235235098939,0.9978407781360259
+RGB → fruto,Dream,leaf_rgb_GGA_December,Vit C,16,-0.25588235294117645,0.33878990807124576,0.9978407781360259
+RGB → fruto,Dream,leaf_rgb_GGA_March,yield_Com Ton/ha,16,-0.12941176470588234,0.63288233246826,0.9978407781360259
+RGB → fruto,Dream,leaf_rgb_GGA_March,yield_No com Ton/ha,16,-0.06764705882352941,0.8034203137966691,0.9978407781360259
+RGB → fruto,Dream,leaf_rgb_GGA_March,yield_Nº de plantes,16,0.22611896260029213,0.3997351699562547,0.9978407781360259
+RGB → fruto,Dream,leaf_rgb_GGA_March,yield_g/planta,16,-0.18235294117647058,0.49907485724580014,0.9978407781360259
+RGB → fruto,Dream,leaf_rgb_GGA_March,fruit_Weight,16,-0.15599709889189395,0.5639916710735264,0.9978407781360259
+RGB → fruto,Dream,leaf_rgb_GGA_March,fruit_Hydrat,16,-0.22647058823529412,0.3989829266412891,0.9978407781360259
+RGB → fruto,Dream,leaf_rgb_GGA_March,fruit_Firm,16,-0.09720187272056653,0.72025499326424,0.9978407781360259
+RGB → fruto,Dream,leaf_rgb_GGA_March,fruit_Hue,15,-0.6285714285714286,0.012079539175905742,0.5808513823459972
+RGB → fruto,Dream,leaf_rgb_GGA_March,fruit_Chroma,15,-0.0857142857142857,0.7613341261907667,0.9978407781360259
+RGB → fruto,Dream,leaf_rgb_GGA_March,fruit_BRIX,16,0.014727556472813109,0.9568284446885975,0.9978407781360259
+RGB → fruto,Dream,leaf_rgb_GGA_March,fruit_Acidity,16,-0.42594061347075185,0.09996592318482422,0.899693308663418
+RGB → fruto,Dream,leaf_rgb_GGA_March,Total polyphenols,16,-0.23823529411764705,0.3742541297279883,0.9978407781360259
+RGB → fruto,Dream,leaf_rgb_GGA_March,Tot anth,13,-0.22527472527472525,0.4593051427250058,0.9978407781360259
+RGB → fruto,Dream,leaf_rgb_GGA_March,Vit C,16,-0.5058823529411764,0.045581616123940336,0.7179104539520603
+RGB → fruto,Dream,leaf_rgb_GGA_May,yield_Com Ton/ha,16,0.19117647058823528,0.47816401281702825,0.9978407781360259
+RGB → fruto,Dream,leaf_rgb_GGA_May,yield_No com Ton/ha,16,0.3235294117647059,0.2215741250012429,0.9978407781360259
+RGB → fruto,Dream,leaf_rgb_GGA_May,yield_Nº de plantes,16,0.11000381964338535,0.6850682548817509,0.9978407781360259
+RGB → fruto,Dream,leaf_rgb_GGA_May,yield_g/planta,16,0.049999999999999996,0.8540995521297436,0.9978407781360259
+RGB → fruto,Dream,leaf_rgb_GGA_May,fruit_Weight,16,-0.2060339041968411,0.44394197686911985,0.9978407781360259
+RGB → fruto,Dream,leaf_rgb_GGA_May,fruit_Hydrat,16,0.18235294117647058,0.49907485724580014,0.9978407781360259
+RGB → fruto,Dream,leaf_rgb_GGA_May,fruit_Firm,16,-0.7790877374118135,0.0003751689595993703,0.04727128890952066
+RGB → fruto,Dream,leaf_rgb_GGA_May,fruit_Hue,15,0.035714285714285705,0.8994469934720875,0.9978407781360259
+RGB → fruto,Dream,leaf_rgb_GGA_May,fruit_Chroma,15,-0.017857142857142853,0.9496353041738621,0.9978407781360259
+RGB → fruto,Dream,leaf_rgb_GGA_May,fruit_BRIX,16,-0.49484589748652047,0.051326341123468386,0.7185687757285575
+RGB → fruto,Dream,leaf_rgb_GGA_May,fruit_Acidity,16,0.010316900672301949,0.9697509194391927,0.9978407781360259
+RGB → fruto,Dream,leaf_rgb_GGA_May,Total polyphenols,16,0.09411764705882353,0.7288144270239805,0.9978407781360259
+RGB → fruto,Dream,leaf_rgb_GGA_May,Tot anth,13,0.04395604395604395,0.8866190227890784,0.9978407781360259
+RGB → fruto,Dream,leaf_rgb_GGA_May,Vit C,16,-0.023529411764705882,0.931073583667659,0.9978407781360259

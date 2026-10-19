@@ -1,0 +1,3 @@
+Feature,Etapa,Razón
+leaf_no3_mg NO3-/ g DW_March,Correlation,Spearman 0.950 con leaf_no3_mg NO3-/ 100 mg DW_March
+FE_delta_leaf_no3_mg NO3-/ g DW,Correlation,Spearman 0.973 con FE_delta_leaf_no3_mg NO3-/ 100 mg DW
